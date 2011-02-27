@@ -1,0 +1,46 @@
+<div class="block">
+  <div class="secondary-navigation">
+    <ul class="wat-cf">
+      <li class="first"><%= link_to "#{t("web-app-theme.list", :default => "List")}", messages_path  %></li>
+      <li><%= link_to "#{t("web-app-theme.new", :default => "New")}", new_message_path %></li>
+      <li class="active"><%= link_to "#{t("web-app-theme.show", :default => "Show")}", message_path %></li>
+    </ul>
+  </div>
+  <div class="content">
+    <div class="inner">
+
+        <p>
+          <b><%= t("activerecord.attributes.message.body", :default => t("activerecord.labels.body", :default => "Body")) %>:</b>
+          <%= @message.body %>
+        </p>
+
+        <p>
+          <b><%= t("activerecord.attributes.message.train", :default => t("activerecord.labels.train", :default => "Train")) %>:</b>
+          <%= @message.train %>
+        </p>
+
+
+        <p>
+          <b><%= t("activerecord.attributes.message.address_id", :default => t("activerecord.labels.address_id", :default => "Address")) %>:</b>
+          <%= @message.address.from %>
+        </p>
+
+        <p>
+          <b><%= t("activerecord.attributes.message.category_id", :default => t("activerecord.labels.category_id", :default => "Category")) %>:</b>
+          <%= @message.category.title %>
+        </p>
+
+        <p>
+          <b><%= t("activerecord.attributes.message.subject_id", :default => t("activerecord.labels.subject_id", :default => "Subject")) %>:</b>
+          <%= @message.subject.title %>
+        </p>
+      <div class="wat-cf">
+        <%= link_to image_tag("web-app-theme/icons/application_edit.png", :alt => "#{t("web-app-theme.edit", :default=> "Edit")}") + " " + t("web-app-theme.edit", :default=> "Edit"), edit_message_path(@message), :class => "button" %>
+        <%= link_to image_tag("web-app-theme/icons/cross.png", :alt => "#{t("web-app-theme.delete", :default=> "Delete")}") + " " + t("web-app-theme.delete", :default => "Delete"), message_path(@message), :method => "delete", :class => "button", :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
+      </div>
+    </div>
+  </div>
+</div>
+
+<% content_for :sidebar, render(:partial => 'sidebar') -%>
+

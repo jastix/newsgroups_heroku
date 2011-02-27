@@ -1,0 +1,3917 @@
+--- 
+organizations: 
+- title: Technical University Braunschweig, Germany
+- title: Mantis Consultants, Cambridge. UK.
+- title: IBM Research
+- title: California Institute of Technology, Pasadena
+- title: Tektronix, Inc., Beaverton,  OR.
+- title: Bell-Northern Research, Ottawa, Canada
+- title: Imperial College
+- title: Florida International University, Miami
+- title: sgi
+- title: University of New Mexico, Albuquerque
+- title: Stratus Computer, Inc.
+- title: Macalester College
+- title: Massachvsetts Institvte of Technology
+- title: Sponsored account, School of Computer Science, Carnegie Mellon, Pittsburgh, PA
+- title: University of Wisconsin, Madison -- Computer Sciences Dept.
+- title: Brownian Motion Inc.
+- title: Society for Putting Things on Top of Other Things
+- title: California Institute of Technology
+- title: Case Western Reserve University
+- title: University of Nebraska at Omaha
+- title: unknown
+- title: Kupajava, East of Krakatoa
+- title: Nyx, Public Access Unix at U. of Denver Math/CS dept.
+- title: IBM Advanced Workstation Division
+- title: Penn State University
+- title: Virginia Tech Computer Science Dept, Blacksburg, VA
+- title: DSG, Stanford University, CA 94305, USA
+- title: Unixverstas Olutensin, Finlandia
+- title: ITC, Griffith University, Brisbane, Australia
+- title: Society for Trying Really Hard
+- title: St. Andrews University, Scotland.
+- title: Association Against Having Fun With Your Clothes On
+- title: Princeton University
+- title: Workstations at Maryland, University of Maryland, College Park
+- title: The University of South Dakota Computer Science Dept.
+- title: South Australian Regional Academic and Research Network
+- title: University of Michigan Engineering, Ann Arbor
+- title: University of Oulu, Finland
+- title: Arizona State University, Tempe, AZ
+- title: CSIRO ITS
+- title: Texas A&M University
+- title: University of Arizona
+- title: Summit NJ
+- title: Welch Medical Library
+- title: Society for the Preservation of E. coli
+- title: Harlequin Ltd, Cambridge, UK
+- title: University of Wisconsin Eau Claire
+- title: Unorganized Usenet Postings UnInc.
+- title: MegaByte Digital Telecommunications
+- title: Decision Support Inc.
+- title: Department of Computer Science, Warwick University, England
+- title: Blasny Blasny, Consolidated (Amherst, MA Offices)
+- title: Tampere University of Technology, Computing Centre
+- title: worldbank.org
+- title: Monash University, Melb., Australia.
+- title: UTexas Mail-to-News Gateway
+- title: Florida State University Computer Science Department
+- title: Okcforum Unix Users Group
+- title: BNR, Inc.
+- title: Software Engineering Institute
+- title: UNC School of Medicine
+- title: Cookamunga Tourist Bureau
+- title: University of Illinois at Urbana
+- title: S-CUBED, A Division of Maxwell Labs; San Diego CA
+- title: Boston University Physics Department
+- title: Simon Fraser University, Burnaby, B.C., Canada
+- title: Somewhere in the Twentieth Century
+- title: Sea Change Corporation, Mississauga, Ontario, Canada
+- title: Tektronix Inc., Beaverton, Or.
+- title: AT&T
+- title: University of Washington, Seattle
+- title: Wesleyan University
+- title: Siemens-Nixdorf AG
+- title: California State University, San Bernardino
+- title: SunSelect
+- title: VideOcart Inc.
+- title: Salvation Army Draft Board
+- title: Walla Walla College
+- title: University of Southern Queensland
+- title: Sophomore, Electrical and Computer Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: I didn't do it, nobody saw me, you can't prove a thing.
+- title: Me, Mississauga, Ontario, Canada
+- title: Cadence Design Systems, Inc.
+- title: Cured, discharged
+- title: Nottingham University
+- title: U of Maryland, Dept. of Computer Science, Coll. Pk., MD 20742
+- title: Kansas State University
+- title: Orden del Lobo Estepario
+- title: Case Western Reserve University, Cleveland, Ohio (USA)
+- title: Department of Computer Science, University of York, England
+- title: NASA Lewis Resaerch Center
+- title: Compaq Computer Corp
+- title: Texas Tech University
+- title: Yale University, Department of Computer Science, New Haven, CT
+- title: U of Arizona CS Dept, Tucson
+- title: California Polytechnic State University, San Luis Obispo
+- title: Manchester Computing Centre
+- title: The University of Adelaide
+- title: Stratus Computer, Marlboro Ma.
+- title: Mayo Foundation/Mayo Graduate School Rochester, MN
+- title: The University of Texas at Arlington
+- title: University of Utah Computer Center
+- title: University of Bradford, UK
+- title: Louisiana Tech University
+- title: Motorola, Inc. -- Austin,TX
+- title: Netcom. San Jose, California
+- title: The Loyal Order Of Keiths.
+- title: Ministry of Silly Walks
+- title: Carderock Division, NSWC, Bethesda, MD
+- title: SDSU Computing Services
+- title: Univ. of Florida CIS Dept.
+- title: University of Virginia
+- title: "Edmonton Remote Systems #2, Edmonton, AB, Canada"
+- title: Texas Instruments, SPDC, DSP Technology Branch, Dallas
+- title: CIS, University of Alabama at Birmingham
+- title: Philips Interactive Media of America
+- title: Information Technology Institute, National Computer Board, Singapore.
+- title: Computer and Technologies Theme Program, NCSU, Raleigh
+- title: Netcom Online Communications Services (408-241-9760 login guest)
+- title: DIALix Services, Perth, Western Australia
+- title: Carelcomp Oy
+- title: FWI, University of Amsterdam
+- title: Tampere University of Technology
+- title: Universite PARIS 7 - UFR d'Informatique
+- title: USAF AL/CFH, WPAFB, Dayton, OH
+- title: Bull HN UK
+- title: H|gskolan i J|nk|ping
+- title: The University of Birmingham, United Kingdom
+- title: Unocal Corporation
+- title: Harvard University Science Center
+- title: Harris CSD, Ft. Lauderdale, FL
+- title: Computer Science Dept., Univ. of Western Ontario, London, Canada
+- title: Mail to News Gateway at Wang Labs
+- title: U of Arizona Electrical and Computer Engineering
+- title: Silicon Graphics, Inc.  Mountain View, CA
+- title: Chalmers University of Technology, Gothenburg Sweden
+- title: EDS/Cadillac
+- title: Lehigh University
+- title: University of Arkansas
+- title: Purdue University
+- title: Computer Science, University of B.C., Vancouver, B.C., Canada
+- title: SHOgraphics, Sunnyvale
+- title: University of Canterbury, Christchurch, New Zealand
+- title: Rensselaer Polytechnic Institute
+- title: Client Specific Systems, Inc.
+- title: California State Polytechnic University, Pomona
+- title: Project GLUE, University of Maryland, College Park
+- title: San Diego State University Computing Services
+- title: Neptune Software Inc
+- title: Rensselaer Polytechnic Institute, Troy, NY
+- title: TASC
+- title: Siemens Weyland-Yutani
+- title: Mathematics and Computer Science, Aalborg University
+- title: Edwards & Edwards Consulting
+- title: Clarkson University
+- title: Mississippi State University
+- title: Case Western Reserve University, Cleveland, OH (USA)
+- title: University of Minnesota
+- title: University of Toronto Dynamic Graphics Project
+- title: The University of Western Australia
+- title: New Mexico Tech
+- title: Labtam Australia Pty. Ltd., Melbourne, Australia
+- title: Calif State Univ/Electronic Information Services
+- title: University of Wollongong, NSW, Australia.
+- title: Regional Computing Center, University of Cologne
+- title: Technische Universitaet Muenchen, Germany
+- title: MCC Network Unit
+- title: Code 1542, DTMB, Bethesda, MD
+- title: Harris Computer Systems Division
+- title: Loral Data Systems
+- title: Department of Computer Science, The University of Western
+- title: Homewood Academic Computing, Johns Hopkins University, Baltimore, Md, USA
+- title: University of Calif., San Diego/Microscopy and Imaging Resource
+- title: My own node in Groningen, NL.
+- title: Dept of EE, University of Linkoping
+- title: AT&T Bell Laboratories, Murray Hill NJ
+- title: University of Southern California, Los Angeles, CA
+- title: IBM Austin
+- title: SOCS, McGill University, Montreal, Canada
+- title: UNC-CH School of Medicine
+- title: Cray Research, Inc.
+- title: Silicon Graphics, Inc.
+- title: USCACSC, Los Angeles
+- title: National Capital Freenet, Ottawa, Canada
+- title: Rockwell International
+- title: Commercial and Industrial Group ARGUS
+- title: Engineering Animation, Inc.
+- title: AT&T Paradyne, Largo Florida
+- title: Defence Science and Technology Organisation
+- title: Boeing Computer Services
+- title: University of Tasmania (Australia)
+- title: University of Tasmania, Australia.
+- title: University of Windsor, Ontario, Canada
+- title: Univ. of Calif., Irvine, Info. & Computer Sci. Dept.
+- title: George Washington University
+- title: University of Michigan EECS Dept., Ann Arbor, MI
+- title: Hughes Transportation Simulation Center, HAC; Culver City, CA
+- title: University of Northern Iowa
+- title: Rochester Institute of Technology
+- title: CSU Stanislaus
+- title: Computer Science Dep. - Milan University
+- title: Computing Services, University of Warwick, UK
+- title: SaxNet, Dresden, Germany
+- title: UMCC, Ann Arbor, MI
+- title: Abo Akademi University
+- title: Micro Focus Ltd, Newbury, England
+- title: PTT Research, The Netherlands
+- title: Dept. of Information Science, Univ. of Tokyo, Japan.
+- title: ANL
+- title: Express Access Online Communications, Greenbelt, MD USA
+- title: Wageningen Agricultural University
+- title: MIND LINK! - British Columbia, Canada
+- title: Lehman Brothers, Inc.
+- title: Math. Dept., Swiss Institute of Technology
+- title: University of North Texas
+- title: University of Missouri Kansas City
+- title: Southwest Research Institute
+- title: University of California, Irvine
+- title: Texas Instruments
+- title: State University of New York at Buffalo/Comp Sci
+- title: City University of New York
+- title: University of Michigan HSITN
+- title: Oak Ridge National Laboratory
+- title: Camosun College, Victoria B.C, Canada
+- title: Boeing
+- title: Central Research Lab. Hitachi, Ltd.
+- title: NETCOM On-line Communication Services (408 241-9760 guest)
+- title: FNAL
+- title: DePaul University, Chicago
+- title: The TSoft BBS and Public Access Unix, +1 415 969 8238
+- title: "Nr. 5 p} NatR}b "
+- title: Slovak Technical University Bratislava, Slovakia
+- title: CEC Karlsruhe
+- title: Royal Melbourne Institute of Technology
+- title: MCGV Stack, Eindhoven University of Technology, the Netherlands.
+- title: Temple University
+- title: SERC Daresbury Laboratory, UK
+- title: Goldman, Sachs & Co
+- title: University of Virginia Computer Science Department
+- title: Computer Science Department, University of Cape Town
+- title: Manchester Computing Centre, Manchester, England
+- title: Oxford University Computing Service, 13 Banbury Rd, Oxford, U
+- title: Engineering Computer Network, University of Oklahoma, Norman, OK, USA
+- title: Kontron Elektronik GmbH Eching, Germany
+- title: Stanford Linear Accelerator Center
+- title: Smith College, Northampton, MA, US
+- title: Philips Research Laboratories, Redhill, UK
+- title: Motorola, Inc.
+- title: MATHEMAGIC
+- title: LESC
+- title: IBM AWS Graphics Systems
+- title: The Cellar BBS and public access system
+- title: University of Tennessee Computing Center
+- title: Brandeis University
+- title: IBM Rochester
+- title: GMI Engineering&Management Institute, Flint, MI
+- title: Brock University, St. Catharines Ontario
+- title: International Foundation for Internal Freedom
+- title: Texas A&M Univ., Inc.
+- title: Dartmouth College, Hanover, NH
+- title: National Technical Univ. of Athens
+- title: Royal Institute of Technology, Stockholm, Sweden
+- title: Brigham Young University
+- title: Brigham Young University, Provo UT USA
+- title: a2i network
+- title: Institut Imag, Grenoble, France
+- title: San Diego State University, College of Sciences
+- title: TUBerlin/ZRZ
+- title: University of Illinois at Urbana-Champaign
+- title: Portland State University, Computer Science Dept.
+- title: Trent University
+- title: Microdata International Telecomm Service
+- title: University of Washington
+- title: NCR E&M Columbia, SC
+- title: The National Society for the Inversion of Cuddly Tigers
+- title: CSIRO Division of Mathematics and Statistics, Australia
+- title: Ericsson Business Communications, Inc.
+- title: Performance Systems Int'l
+- title: School of Computer Science, Carnegie Mellon
+- title: University of Kentucky
+- title: Paging and Wireless Data Group, Motorola, Inc.
+- title: Northwest Nexus Inc. (206) 455-3505
+- title: A World of Information at your Fingertips
+- title: The QED BBS, Lakewood CA
+- title: The Portal System (TM)
+- title: University of Michigan
+- title: California State University, Chico
+- title: University of Chicago
+- title: Willard's House BBS, Atlanta, GA -- +1 (404) 664 8814
+- title: New Mexico State University
+- title: University of Alberta
+- title: Maths Dept UWA
+- title: University of Pittsburgh
+- title: University of Waikato, Hamilton, New Zealand
+- title: Utrecht University, Dept. of Computer Science
+- title: Swinburne University of Technology
+- title: IBM UK Labs
+- title: -*-  Whiting Corporation, Harvey, Illinois  -*-
+- title: Real/Time Communications
+- title: The City University
+- title: Ostfold College
+- title: University of Trondheim, Norway
+- title: Laboratoire d'Informatique Fondamentale de Lille
+- title: Inst. fuer Informatik, Technische Univ. Muenchen, Germany
+- title: Maths & C.S. Dept., Dundee University, Scotland, UK
+- title: Hochschule fuer Architektur und Bauwesen Weimar, Germany
+- title: Lancaster University Computer Society
+- title: University of Berne, Institute of Computer Science and Applied Mathematics, Special Interest Group Computer Graphics
+- title: ALTA Analytics
+- title: SCTC
+- title: Center for Instructional and Research Computing Activities
+- title: Rechenzentrum der Max-Planck-Gesellschaft in Garching
+- title: Online Systems Development ( NY, NY)
+- title: Massey University, Palmerston North, New Zealand
+- title: Almac BBS Ltd. +44 (0)324 665371
+- title: Western Michigan University
+- title: State University of New York at Stony Brook
+- title: Sales Technologies, Inc.
+- title: University Of Kentucky, Dept. of Math Sciences
+- title: Kubota Pacific Computers Inc.
+- title: University of Arkansas at Little Rock
+- title: SouthWest Mo State Univ
+- title: Microware Systems Corp., Des Moines, Iowa
+- title: Korea Advanced Institute of Science and Technology
+- title: Canada Remote Systems
+- title: EICN, Switzerland
+- title: Computer Centre, Monash University, Australia
+- title: Australian National University, Canberra
+- title: West Virginia Network for Educational Telecomputing
+- title: Technical University of Brno, Czech Republic
+- title: Objective Systems Integrators, Folsom Ca.
+- title: Brunel University, Uxbridge, UK
+- title: Kongsberg Ingeniorhogskole
+- title: Kongsberg College of Engineering
+- title: New York University
+- title: n/a
+- title: The University of Texas at Austin
+- title: INESC-Porto, Portugal
+- title: University of Karlsruhe, Germany
+- title: Computing Services Division, University of Wisconsin - Milwaukee
+- title: ICGEB
+- title: The Univerity of Brighton, U.K.
+- title: College of Engineering - University of California - Davis
+- title: University of Sussex
+- title: University of Manitoba
+- title: Texas A&M University, Academic Computing Services
+- title: Microdata Oy, Helsinki, Finland
+- title: Evans & Sutherland Computer Corp., Salt Lake City, UT
+- title: Lewis & Clark College, Portland OR
+- title: NeoSoft Communications Services -- (713) 684-5900
+- title: Industrial Research Ltd., New Zealand.
+- title: Colorado State U. Engineering College
+- title: CS Department, Stanford University, California, USA
+- title: engineering, University of Central Florida, Orlando
+- title: Columbia University Department of Computer Science
+- title: " Silicon Graphics, Inc.  Mountain View, CA"
+- title: State University of New York at Albany
+- title: Helsinki University of Technology, Finland
+- title: IBM T.J. Watson Research
+- title: Technische Hochschule Ilmenau
+- title: TAP
+- title: University of Twente, Dept. of Computer Science
+- title: University of Grenoble (France)
+- title: Dept. of Computing Science, Glasgow University, Glasgow.
+- title: Centro de Computacion (CEC), Universidad de Chile
+- title: The File Bank BBS - Fallbrook, CA  619-728-4318
+- title: Moscom Corp., E. Rochester, NY
+- title: USC  Department of Computer Science
+- title: University of Florida, NERDC
+- title: Wilfrid Laurier University
+- title: University of Karlsruhe, FRG
+- title: Department of Psychology, University of Toronto
+- title: NASA Lewis Research Center, Cleveland, OH
+- title: USGS Center for Spatial Analysis Technologies
+- title: Groupe de Recherche Operationnelle en Telecommunication (ROT) Inc.
+- title: Georgia Institute of Technology
+- title: CX5 (San Francisco)
+- title: Computer Center, NCU, Taiwan, R.O.C.
+- title: University of Texas @ Austin, Comp. Center
+- title: Interleaf, Inc.
+- title: Intergraph Corp. Huntsville, AL
+- title: University of Pretoria
+- title: Institutt for Informatikk UIB Norway
+- title: Universite de Montreal
+- title: Adobe Systems Incorporated, Mountain View
+- title: Santa Rosa Junior College, Santa Rosa, CA
+- title: Courant Institute of Mathematical Sciences
+- title: Microsoft Corp.
+- title: Rastek Corporation, Huntsville, AL
+- title: North Carolina State University, Project Eos
+- title: DAIMI Computer Science Department, Aarhus University, Denmark
+- title: Dept. Computerwetenschappen
+- title: /usr1/lib/news/organization
+- title: Frederick Cancer Research and Development Center
+- title: NSWC
+- title: Online Computer Systems, Inc.
+- title: Jet Propulsion Laboratory
+- title: BYU
+- title: Dis-
+- title: Adaptive Solutions, Custom Software & Support  909/861-4048
+- title: TNO Physics and Electronics Laboratory
+- title: The Center for Advanced Computer Studies
+- title: Private System
+- title: HP Australasian Response Centre (Melbourne)
+- title: Tektronix, Inc., Redmond, Oregon
+- title: Baylor College of Medicine, Houston, Tx
+- title: NASA/GSFC Greenbelt Maryland
+- title: Digital Equipment Corporation
+- title: Earlham College, Richmond, Indiana
+- title: Netcom - Online Communication Services (408 241-9760 guest)
+- title: Shmuel Einstein & Associates, Inc.
+- title: Sandia National Laboratories
+- title: Air Force Phillips Lab.
+- title: University of Tasmania
+- title: institute for the learning sciences
+- title: Open Software Foundation
+- title: NASA Lewis Research Center [Cleveland, Ohio]
+- title: Victoria University of Wellington. New Zealand
+- title: National Technical University of Athens
+- title: ITD/DSTO
+- title: Cornell University
+- title: Rensselaer Polytechnic Institute, Troy, NY.
+- title: /usr/local/lib/organization
+- title: University of California, Berkeley
+- title: The University of Hong Kong
+- title: Diablo Creative
+- title: National Chiao Tung University
+- title: Info Sci & Eng, University of Canberra, AUSTRALIA
+- title: Basser Department of Computer Science
+- title: University of Utrecht, 3D Computer Vision Research Group
+- title: Idaho State University, Pocatello
+- title: Computer Science Dept. - Univ. of Alabama in Huntsville
+- title: Bolt Beranek and Newman (BBN)
+- title: Universite des Sciences et Technologie de LILLE, France
+- title: /merlin-home2/patrick/.organization
+- title: University of Stellenbosch
+- title: CERN European Lab for Particle Physics
+- title: McGill Research Center for Intelligent Machines, Montreal, Canada
+- title: University of NC at Charlotte
+- title: Dept. of Computer Science, TU Dresden, Germany.
+- title: Oklahoma State University
+- title: ODD FROGS BALLOON SHOP
+- title: Xyvision Design Systems
+- title: Norwegian Institue of Technology
+- title: Periphonics Corporation
+- title: Abstract Software
+- title: Dept. of Computer Science, Laurentian University, Sudbury, ON
+- title: SQ Software via The World Public Access UNIX, Brookline, MA
+- title: The Ohio State University
+- title: Coventry University
+- title: University of Newcastle, AUSTRALIA
+- title: Inst. of Prec. Mech. & Comp. Equip., Moscow, Russia
+- title: private
+- title: DIS(organised)
+- title: University of Basel, Switzerland
+- title: Moscow Scientific Industrial Ass. Spectrum
+- title: University of California, Santa Barbara
+- title: Texas A&M University, College Station, TX
+- title: Silicon Graphics, Inc., Mountain View, CA
+- title: Johns Hopkins Univ. Welch Medical Library
+- title: CSRI, University of Toronto
+- title: MCSNet Contributor, Chicago, IL
+- title: Woody - Public Access Linux - Melbourne
+- title: Ponton European Media Art Lab, Hamburg
+- title: Dept. of Computer Science, TU Dresden, Germany
+- title: "University of Tennessee "
+- title: X Consortium, MIT Laboratory for Computer Science
+- title: /etc/organization
+- title: Martin Marietta Astronautics, Denver
+- title: Columbia University
+- title: University of Texas at San Antonio
+- title: random design -- Opinions, cheaply
+- title: Communication & Multimedia Lab, NTU, Taiwan
+- title: Ky/In PC User's Group - Louisville, KY - 502-423-8654
+- title: Elec. & Comp. Eng., Univ. of Kansas
+- title: University of Missouri - Kansas City
+- title: NetLink Online Communications, San Diego CA
+- title: University of Central Florida - Computer Services
+- title: Express Access Online Communications USA 800-546-2010
+- title: Cavendish Systems
+- title: The University of Calgary, Alberta
+- title: Augustana University College, Camrose, Alberta
+- title: UNLV
+- title: HP Colorado Springs Division
+- title: Chevron Oil Field Research Company
+- title: Brown University Center for Fluid Mechanics
+- title: Math, Stats & CS, Dalhousie University, Halifax, NS, Canada
+- title: TSoft BBS and Public Access Unix, +1 415 969 8238
+- title: Department of Plant Pathology
+- title: Dept. of Physics, Memorial University
+- title: Encore Computer Corporation
+- title: Kernel Hackers 'r' Us
+- title: Yale University; New Haven, Connecticut   USA
+- title: The National Capital Freenet
+- title: Texas A&M University, College Station
+- title: MIT Artificial Intelligence Lab
+- title: UUNET Communications
+- title: San Jose State University - Math/CS Dept.
+- title: Northwestern University, Evanston Illinois.
+- title: College of Engineering, Univ. of Wisconsin--Madison
+- title: Hewlett-Packard VCD
+- title: University of Arizona, Tucson
+- title: University of Delaware
+- title: University of Colorado, Boulder
+- title: Software Metrics Inc.
+- title: DaytonOH.NCR.COM
+- title: Cloud Nine BBS, Melbourne, Australia.
+- title: Prodigy Services Co.
+- title: Vanderbilt University School of Engineering, Nashville, TN, USA
+- title: Oregon Health Sciences University
+- title: Indiana University
+- title: Inst. f. Anaesthesiologie der LMU, Muenchen (Germany)
+- title: University of Denver, Dept. of Math & Comp. Sci.
+- title: U of Wisconsin-Madison College of Engineering
+- title: Empros Power Systems Control, a division of Siemens EA
+- title: Harris Corporation, Government Aerospace Systems Division
+- title: Marquette University - Computer Services
+- title: /home/staff/hjstein/.organization
+- title: CONVEX Computer Corporation, Richardson, Tx., USA
+- title: cs.uiowa.edu
+- title: Prodigy Services Company, White Plains, NY
+- title: Purdue University Engineering Computer Network
+- title: National Library of Medicine
+- title: CIMLINC, Inc. - Engineering
+- title: Clark University
+- title: Portal Communications Company
+- title: University of Arizona MIS Department - Mosaic Group
+- title: Prentice Centre, University of Queensland
+- title: UK Infrared Telescope, Joint Astronomy Centre, Hawaii
+- title: Drexel University, Phila. Pa.
+- title: Natural Environment Research Council
+- title: UMass-Lowell Computer Science
+- title: Helsinki University of Technology
+- title: UNC Office of Information Technology
+- title: Michigan State University
+- title: Monsanto Company
+- title: Philips Research Laboratories, Eindhoven, The Netherlands
+- title: Coastal Systems Station
+- title: University of Iowa, Image Analysis Facility
+- title: Electrical and Computer Engineering, Carnegie Mellon
+- title: SDRC
+- title: University of Louisville
+- title: Oracle Corp., Redwood Shores CA
+- title: Mitsubishi Electric Research Laboratories, Inc.
+- title: Technical University of Berlin, Germany
+- title: Colorado SuperNet, Inc.
+- title: dis
+- title: School of Architecture, University of Bath, UK
+- title: Computer Science Department, Stanford University.
+- title: Toronto Stock Exchange
+- title: University of British Columbia, Vancouver, B.C., Canada
+- title: TRW Inc., Redondo Beach, CA
+- title: Physics Department, FSU
+- title: University of Wyoming
+- title: Regional Network Systems Group, Perth
+- title: Cray Research Inc.
+- title: George Mason University, Fairfax, Virginia, USA
+- title: PANIX Public Access Unix, NYC
+- title: Internet Direct Inc. -- (602) 274-0100
+- title: MIT Laboratory for Computer Science
+- title: University of Arizona MIS Department
+- title: Wellington City Council (Public Access), Wgtn, Nz
+- title: Cardiothoracic Imaging Research Center
+- title: Trent Computing and Telecommunications Department
+- title: HELLDIVER USENET node, Brooklyn, New York, USA
+- title: Miami University Academic Computer Service
+- title: CIS, Univ of Alabama at Birmingham
+- title: University of Pennsylvania
+- title: Milwaukee School Of Engineering, Milwaukee, WI USA
+- title: NC State University
+- title: Computer Science Department, Stanford University
+- title: NCR Corp., Network Products - San Diego
+- title: SRI International, Menlo Park, CA
+- title: University of Western Ontario
+- title: Computer Science Dept. of UNT
+- title: MV Communications, Inc.
+- title: Computer Sci. & Information Eng., Chiao-Tung U, Taiwan, ROC
+- title: National Tsing Hua University (HsinChu)
+- title: Center for Reliable and High-Performance Computing
+- title: CSE Dept., U.C. San Diego
+- title: "Faculty of Engineering, Monash University "
+- title: University of Hawaii, College of Engineering
+- title: NTUTaiwan
+- title: University of Twente, Enschede, The Netherlands
+- title: Fac. Wiskunde & Informatica, VU, Amsterdam
+- title: Institutt for informatikk, Universitetet i Tr.heim, AVH
+- title: CIBA-GEIGY Corporation, Additives Division
+- title: VERSYSS Incorporated, Westwood MA
+- title: Macquarie University, Australia.
+- title: University of Passau - Germany
+- title: Psychologisches Institut I, Heinrich-Heine-Universitaet Duesseldorf
+- title: AT&T Bell Labs, Columbus, Ohio
+- title: Boston University, Boston, MA, USA
+- title: Eurocontrol - Central Flow Management Unit
+- title: Computing Laboratory, U of Newcastle upon Tyne, UK NE1 7RU.
+- title: University of Evansville
+- title: Bell Sygma, Revenue Systems Development
+- title: Hewlett-Packard Waldbronn, Germany
+- title: University of Houston
+- title: SPSS, Inc.
+- title: University Of Miami, Medical School
+- title: Industrial Research Ltd, Auckland, New Zealand
+- title: CS Dept., Memorial University of Newfoundland
+- title: Portal Communications Company -- 408/973-9111 (voice) 408/973-8091 (data)
+- title: Actrix Information Exchange
+- title: Worcester Polytechnic Institute
+- title: VPI&SU Computer Science Department, Blacksburg, VA
+- title: The Wollongong Group, Palo Alto, CA
+- title: University of Toronto, Engineering Computing Facility
+- title: University of Joensuu
+- title: University of Tromsoe, Norway
+- title: Trondheim College of Engineering
+- title: DLR Insitute of Flight Guidance
+- title: Digital Equipment Enterprise bv, Apeldoorn, The Netherlands.
+- title: University of Kaiserslautern (Germany)
+- title: Naval Surface Warfare Center
+- title: University of Chicago Computing Organizations
+- title: UC LLNL
+- title: Metaphase Technology, Inc.
+- title: U S WEST Information Technologies
+- title: Pontificia Universidad Catolica de Chile
+- title: Loughborough University, UK.
+- title: Eos Systems Inc, Vancouver, B.C., Canada
+- title: Scientific Computing Divison/NCAR Boulder, CO
+- title: Plymouth State College - Plymouth, NH.
+- title: Sun Microsystems, Inc.
+- title: Carderock Division, NSWC
+- title: Eotvos University, Budapest, Hungary
+- title: University of California at San Diego
+- title: Grebyn Timesharing, Inc.
+- title: Kubota Pacific Computer
+- title: The Great-West Life Assurance Company.
+- title: RedRock Development
+- title: Arizona State University
+- title: Deakin University, Victoria, Australia
+- title: Iowa State University, Ames IA
+- title: Michigan Technological University
+- title: Hewlett-Packard Co., Loveland, CO
+- title: K.U.Leuven - Applied Economic Sciences Department
+- title: University of Tromsoe
+- title: Massachusetts Institute of Technology
+- title: CWRU School of Medicine
+- title: North Dakota Higher Education Computing Network
+- title: University of Natal (Durban), South Africa
+- title: IDX Corporation, S. Burlington, VT
+- title: Bell-Northern Research
+- title: Vpnet Public Access
+- title: HP Singapore Notes-Server
+- title: The Houses of the Holy
+- title: Tektronix, Inc.
+- title: Motorola Inc., Cellular Infrastructure Group
+- title: LESC/NASA/LaRC
+- title: University of Waterloo
+- title: Datamark International Ltd.
+- title: Sonoma State University
+- title: CSLab, Autralian National Uni.
+- title: University of Delaware, Newark
+- title: AOTC - CSSC
+- title: Lost In Space
+- title: AI Programs, University of Georgia, Athens
+- title: The World Public Access UNIX, Brookline, MA
+- title: CDNSWC, Naval Ship Systems Eng Sta, Phila PA
+- title: Institut f. Arbeitsphysiologie a.d. Uni Dortmund
+- title: Zikzak Public Access UNIX, Melbourne Australia
+- title: CTP Inc.
+- title: Mind's Eye, Inc.
+- title: AT&T Tridom
+- title: Fine Arts and Communications -- Brigham Young University
+- title: "[Computer Consoles, Inc., Rochester, NY"
+- title: MPS, Energy, Mines & Resources, Canada
+- title: EDS CANADA
+- title: University Of Alberta, Edmonton Canada
+- title: McMaster University, Hamilton, Ontario.
+- title: Medtronic, Inc.
+- title: Olivetti ATC; Cupertino CA, USA
+- title: University of Toronto, Erindale Campus
+- title: University of Canberra
+- title: ICS Dept., UC Irvine
+- title: TRW Systems Engineering & Development Division, Carson, CA
+- title: University Computing Services - OSU
+- title: KIT Iizuka, AI Dept, JAPAN.
+- title: Spandex Admirers Intl.
+- title: Dept. of Chemical Engineering, Texas A&M University
+- title: Motorola Ltd., European Cellular Infrastructure Division
+- title: Radio Free Nyongwa -- public usenet in Montreal (514) 284-6693
+- title: Naval Ocean Systems Center, San Diego, CA
+- title: Rutgers Univ., New Brunswick, N.J.
+- title: SOCS - Mcgill University, Montreal, Canada
+- title: Odetics, Inc., Anaheim, CA
+- title: The University of Liverpool
+- title: Sigma Press
+- title: Comprehensive Technologies Int., Inc.
+- title: BC Systems Corporation
+- title: Aspen Technology Group
+- title: GEC-Marconi Research Centre, Great Baddow, Essex
+- title: Psychology Department, University of Tasmania
+- title: University of Notre Dame
+- title: Dept. of Electrical Engineering, University of Toronto, Canada
+- title: RVS, Universitaet Hannover, Germany
+- title: Emory University, Atlanta, GA
+- title: Workgroup Computing Division, PDX, Intel
+- title: UNIVERSITY OF MASSACHUSETTS - AMHERST
+- title: Xerox PARC
+- title: Dep. of Info.Proc, Umea Univ., Sweden
+- title: Michigan State University, Chemistry Department, E. Lansing, MI
+- title: Department of Computer Science, McMaster University
+- title: Nova University, Fort Lauderdale, FL
+- title: TECHNET, Singapore
+- title: Cornell Info. Tech.
+- title: DSO, Stanford University
+- title: JHU/Applied Physics Laboratory
+- title: Rohm and Haas Company
+- title: Williams College, Williamstown, MA
+- title: Department of Computing, Imperial College, University of London, UK.
+- title: Oak Road Systems, Cleveland Ohio USA
+- title: UCLLNL
+- title: Carleton University
+- title: Chemische Institute, University of Bonn
+- title: Fulcrum Communications
+- title: Dept. of Computer Science, Michigan State University
+- title: Georgia State University
+- title: NCR Engineering and Manufacturing Atlanta -- Atlanta, GA
+- title: Free Software Association of Germany
+- title: Univ of Cincinnati Academic IT Services
+- title: DRD Corporation
+- title: HRB Systems, Inc.
+- title: SAIC, Reston, VA
+- title: OpenConnect Systems, Dallas, TX
+- title: Tactix ReEngineering, Inc.
+- title: Hewlett-Packard, Cupertino, CA
+- title: Rice University
+- title: Jeff's house of computer pieces
+- title: Prairie Storm International, Lockport, MB., Canada
+- title: Pelican Software Corporation
+- title: Integrated Systems, Inc.
+- title: DRA Malvern, Worcs., UK
+- title: Harvey Mudd College, Claremont, CA 91711
+- title: Malaspina College
+- title: C-9 Comm. (CloudNine BBS) 713-855-4382
+- title: Orbital Engine Company
+- title: Private
+- title: Clemson University
+- title: Vicuna Systems, Kingston, Ontario, CANADA
+- title: Iowa State University
+- title: Spider Systems Limited, Edinburgh, UK.
+- title: Eastern Illinois University
+- title: University of Illinois at Chicago
+- title: mentor
+- title: San Francisco State University
+- title: Allegheny College
+- title: Computer Sciences Corporation
+- title: Trinity College, Dublin
+- title: Bull HN, Worldwide Information Systems, Billerica, Mass., USA
+- title: University of South Dakota
+- title: State Water Survey
+- title: Northwest Nexus Inc.
+- title: "Harvard-Smithsonian Center for Astrophysics "
+- title: Tektronix, GPI/ND Info Services
+- title: Universite Paris VI/Paris VII
+- title: dyskaryotic
+- title: Ford Motor Company Research Laboratory
+- title: Colorado State University
+- title: Freshman, Electrical and Computer Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: Open Age, Inc.
+- title: Hewlett-Packard
+- title: WA3WBU, Marysville, PA
+- title: CTS Network Services (crash, ctsnet), El Cajon, CA
+- title: Syracuse University, Syracuse, NY
+- title: The Harvard Group, 01451-0667
+- title: Stone Microsystems, NSW, Australia
+- title: Forschungszentrum Juelich
+- title: University of Orleans, France.
+- title: University of Zurich, Switzerland
+- title: CTPM and CSIRO
+- title: University at Buffalo
+- title: Wimsey Information Services
+- title: Department of Computer Science, U of Copenhagen
+- title: HAL 9000 BBS, W-NET HQ, Ann Arbor, Michigan, USA
+- title: Intelligent Office Company Ltd.
+- title: Tilburg University, Tilburg, The Netherlands
+- title: Dept. of Scientific Computing, Uppsala Univ.
+- title: SAS Institute Inc.
+- title: IBM, Austin
+- title: University of Illinois at Chicago, academic Computer Center
+- title: Solace Computer Club, Sundsvall, Sweden
+- title: NAS Program, NASA Ames Research Center, Moffett Field, CA
+- title: IBM, Research Triangle Park, North Carolina
+- title: Brown University - Providence, Rhode Island  USA
+- title: Universitaet Hannover, Theoretische Nachrichtentechnik
+- title: Zeos International, Ltd
+- title: High Altitude Observatory, Boulder CO 80303
+- title: NCR Corp, E&M-Columbia, Columbia, SC
+- title: University of Michigan (CAEN)
+- title: School of Ocean and Earth Science and Technology
+- title: Baylor College of Medicine, Houston,Tx
+- title: Edinburgh University
+- title: Intergraph Corporation, Huntsville, AL.
+- title: California University of Pennsylvania, California, PA
+- title: Alsys AB (Telesoft Norden AB)
+- title: NCR Microelectronics Products Division (an AT&T Company)
+- title: Naval Surface Warfare Center, Dahlgren Division
+- title: Howtek, Inc.
+- title: MicroTech Software
+- title: The QuBE BBS
+- title: ISG Technologies Inc. Mississauga Ont. Canada
+- title: University of Wuerzburg, Germany
+- title: not much...
+- title: Quarterdeck Office Systems, Santa Monica CA
+- title: New Mexico State University, Las Cruces, NM
+- title: SUNY College at Oswego, Oswego, NY
+- title: Bell Communications Research
+- title: University of St.Gallen, Switzerland
+- title: Delft University of Technology
+- title: Oakland University, Rochester, Michigan, U.S.A.
+- title: TooLs GmbH, Bonn, Germany
+- title: Turku School of Economics
+- title: Molecular Simulations, Inc.
+- title: Michigan State University, College of Engineering
+- title: Univ. of Texas at Dallas
+- title: " University of Wisconsin Chemistry Computing Center"
+- title: Santa Monica College, Santa Monica, CA
+- title: Motorola Codex, Mississauga, Ontario
+- title: Iowa State University, Ames, IA
+- title: IBM T. J. Watson Research
+- title: Network Management Technology Inc.
+- title: Motorola Codex, Canton, Massachusetts
+- title: The John P. Robarts Research Institute, London, Ontario
+- title: Vital Software Services, Oxnard, CA
+- title: Xerox
+- title: Indiana University Computer Science, Bloomington
+- title: New Jersey Institute of Technology, Newark, N.J.
+- title: Monash University
+- title: Data General Corporation, Westboro, MA
+- title: Washington State University Tri-Cities
+- title: Sydney University Computing Service, Sydney, NSW, Australia
+- title: University of Manitoba, Winnipeg, Canada
+- title: Hewlett-Packard / Center for Primal Scream Therapy
+- title: Computer Services Centre, C.U.H.K.
+- title: University of Toledo, Computer Services
+- title: Naval Civil Engineering Lab, Port Hueneme
+- title: Pro-Net Australia
+- title: large
+- title: Rechnerbetrieb Informatik - RWTH Aachen
+- title: University of Zurich, Department of Computer Science
+- title: Dept. Informatik, Swiss Federal Institute of Technology (ETH), Zurich, CH
+- title: Rockefeller University
+- title: Universitaet des Saarlandes,Rechenzentrum
+- title: Interactive Systems Corp., Boulder CO
+- title: University of Massachusetts, Amherst
+- title: Ft. Lauderdale, FL
+- title: myself
+- title: Nyx, Public Access Unix @ U. of Denver Math/CS dept.
+- title: "Bell-Northern Research, BNR-RTP "
+- title: National University of Singapore
+- title: NRL
+- title: Optical Data Systems, Inc.
+- title: Radiation Oncology, NCMH/UNC, Chapel Hill, NC
+- title: University of Maryland, Baltimore County Campus
+- title: Texas Instruments, Inc
+- title: Loral Software Productivity Lab
+- title: Hewlett-Packard Company, Corvallis, Oregon USA
+- title: University of Pennsylvania, USA.
+- title: The Aerospace Corporation, El Segundo, CA
+- title: RMIT Department of Computer Science
+- title: none
+- title: Stevens Institute Of Technology
+- title: Bell Northern Research
+- title: Adobe Systems Incorporated
+- title: The Software Engineering Institute
+- title: University of Toronto Chemistry Department
+- title: WordPerfect Corporation, Orem UT
+- title: School of Biological Sciences, University of Bath, UK
+- title: Harris Semiconductor, Research Triangle Park, NC
+- title: Northeastern University, Boston, MA. 02115, USA
+- title: Unix in NYC
+- title: Coles Supermarkets
+- title: SURAnet, College Park, MD, USA, NA, Earth, Milky Way
+- title: University of Auckland, New Zealand.
+- title: University of Idaho CS Dept.
+- title: University of California, Davis
+- title: Hewlett-Packard Waltham Division
+- title: The University of Texas at Austin, Austin TX
+- title: /usr/userc/rts/satam/.organization
+- title: what, ME???  you must be joking.
+- title: XEL Communications, Inc.
+- title: Mankato State University
+- title: Computer Science Department, Boston University, Boston, MA, USA
+- title: Electro Scientific Industries, Portland OR
+- title: Sommarvagen 1, S-352 37 Vaxjoe, SWEDEN
+- title: University of Maryland, College Park
+- title: inode BBS, NYC's Best Usenet Access (212-679-9146)
+- title: NCR Microelectronics
+- title: Organization for creative time-wasting
+- title: University of Helsinki
+- title: Wayne's Machine; Palm Bay, Florida
+- title: BTR UNIX BBS and Email hub. For info about BTR contact support@btr.com
+- title: Dakota State University
+- title: The University of Texas at Austin, Austin, Texas
+- title: University of California; Santa Cruz
+- title: private COHERENT system
+- title: Bradley University
+- title: South East Queensland Electricity Board
+- title: Me? Organized?
+- title: ProgramVareVerkstedet - UNIT
+- title: Rose Media Inc, Toronto, Ontario.
+- title: Bowling Green State University B.G., Oh.
+- title: University of Delaware - What state is that in?
+- title: Communications Research Laboratory, McMaster University
+- title: Department of Computer Science, Edinburgh University
+- title: Dept. of Electronics, Carleton University
+- title: School of EECS, Washington State University
+- title: National Science Center Foundation
+- title: University of Cincinnati
+- title: Happy Campers USA
+- title: University of New Hampshire  -  Durham, NH
+- title: Silicon Graphics
+- title: REBOX's Host, Berlin, Germany
+- title: Chinet - Public Access UNIX
+- title: School of Computer Science, McGill University
+- title: Mail Group
+- title: Rose-Hulman Institute of Technology
+- title: Advanced Micro Devices, Inc.; Austin, Texas
+- title: University of Iowa, Iowa City, IA, USA
+- title: UC Berkeley
+- title: The Code Works Limited, PO Box 10 155, Auckland, New Zealand
+- title: The Haunted Unix Box
+- title: Compact Solutions, Canberra ACT Australia
+- title: Harding University
+- title: Dansk Data Elektronik A/S
+- title: Basser Dept of Computer Science, University of Sydney, Australia
+- title: YHP Hachioji HSTD R&D, Tokyo Japan
+- title: Department of Scientific Computing, Uppsala University
+- title: Uni Koblenz, Germany.
+- title: Display Products Group, Sony Corporation, Tokyo, Japan
+- title: Aarhus University, Denmark
+- title: University of Erlangen, csd. AI
+- title: USER-TO-USER PCBoard (214)492-6565 (USR DS v32bis)
+- title: Gandalf Data Ltd.
+- title: MDSSC
+- title: University of Texas at Arlington
+- title: MIC-KIBIC, the Karolinska Institute, Sweden
+- title: Ludus Associates, Incorporated.
+- title: Dept. of Civil Engineering, U.B.C., Vancouver, B.C., Canada
+- title: AT&T Tax Systems Development, Maitland FL
+- title: University of Western Ont, London
+- title: Martin Marietta Astronautics Group
+- title: The University of British Columbia
+- title: Synerix GmbH, Karlsruhe
+- title: Cal State Northridge
+- title: NCSU
+- title: Yale University Computer Science Dept., New Haven, CT 06520-2158
+- title: Teradyne, Inc. Boston MA
+- title: Engineering Services, Clemson University
+- title: National Association for the Free Exchange of Information
+- title: University of Rochester - Rochester, New York
+- title: Argonne National Laboratory, Argonne, Illinois
+- title: Real Life, Inc.
+- title: Bowling Green State Univ.
+- title: Eindhoven University of Technology, The Netherlands
+- title: TRW Sensor Data Processing Center, Redondo Beach, CA
+- title: Private System, Edmonton, AB, Canada
+- title: Lockheed Palo Alto Research Labs
+- title: Amiga BitSwap Central Dispatch
+- title: VITec
+- title: Sophomore, Math/Computer Science, Carnegie Mellon, Pittsburgh, PA
+- title: Cal State Long Beach
+- title: Amoco Production Company, Tulsa Research
+- title: Ground Zero
+- title: Washington State University!
+- title: The society for the terminally hard of thinking
+- title: jpl
+- title: NEC America, Inc. Irving, Texas
+- title: Qualcomm, Inc., San Diego, CA
+- title: Motorola, Inc., Cellular Infrastructure Group
+- title: Wind River Systems, Inc.
+- title: WVU College of Engineering
+- title: Muskingum College
+- title: Becton Dickinson Research Center; RTP, N.C.
+- title: Motorola Inc, Austin, Texas
+- title: Brookhaven National Laboratory
+- title: Tektronix Color Printers, Wilsonville, Oregon
+- title: University of North Florida, Jacksonville
+- title: WEITEK Corporation, Sunnyvale CA
+- title: University of Texas at Austin
+- title: Norsk Hydro a.s
+- title: McGill University
+- title: Hewlett Packard, Cupertino
+- title: Ryerson Polytechnical Institute
+- title: Strategic Software, Redford, Michigan
+- title: Tiger's Garage
+- title: Auspex Systems, Santa Clara
+- title: NCR Corporation, Dayton
+- title: Department of Computer Science, The University of Queensland
+- title: School of Physics, University of Sydney, Australia
+- title: Ericsson AS
+- title: "FORTH - ICS, P.O.Box 1385, Heraklio, Crete, Greece 71110 "
+- title: Illinois Institute of Technology, Chicago
+- title: Home Sweet Home
+- title: Carroll College-Waukesha, WI
+- title: Oracle Corporation, Belmont, CA
+- title: Intergalactic Rest Area For Weary Travellers
+- title: Canadian System Security Centre
+- title: The Source for Source
+- title: Cornell-Materials-Science-Center
+- title: LLNL
+- title: Ampex Corporation, Redwood City CA
+- title: MapInfo Corporation, Troy, NY
+- title: The Royal Society for Putting Things on Top of Other Things
+- title: SLAC
+- title: SCO Developer Relations
+- title: SRL Data
+- title: Apple Computer, Inc.,  Cupertino, CA
+- title: Drake University, Des Moines, Iowa, USA
+- title: John Leslie Consulting, Milford NH
+- title: University of Michigan EECS Department
+- title: Univ of Miami IR
+- title: Dept of Info Sys and Comp Sci, National University of Singapore, SINGAPORE
+- title: St.Andrews University
+- title: Univ. of Strathclyde, Glasgow, UK
+- title: People-Net [pnet16], NCTAMS EASTPAC
+- title: University of California, San Diego
+- title: Apple Computer Inc.
+- title: U of M
+- title: Sophomore, Mechanical Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: Stanford University
+- title: Institute Of Systems Science, NUS
+- title: Harvey Mudd College, Claremont CA 91711
+- title: Comedy Company
+- title: University of Ulm
+- title: Dept of Computing and Electrical Engineering, Heriot-Watt University, Scotland
+- title: Cambridge Consultants Ltd., Cambridge, UK
+- title: Mount Holyoke College
+- title: Xenix Support, FICC
+- title: Space Telescope Science Institute
+- title: Case School of Engineering
+- title: The University of North Carolina at Chapel Hill
+- title: Northwestern University
+- title: Clark College, Vancouver, Wa.  USA
+- title: Computer Science, Liverpool University
+- title: BNR
+- title: UC Irvine
+- title: mailEnteringNews at Honeywell SRC
+- title: The Electronic Frontier Foundation
+- title: NASA STI
+- title: Drexel University
+- title: IBM Austin, PowerPC
+- title: University of Victoria, Victoria, BC, Canada
+- title: Fermi National Accelerator Laboratory, Batavia IL
+- title: Gokuraku Videos
+- title: Amos Tuck School
+- title: Andersen Consulting -- CSTaR
+- title: Macintosh Awareness Group In Canada
+- title: Peirce Software
+- title: fnal
+- title: Oracle Corp
+- title: Proponent
+- title: CS Department, Dortmund University, Germany
+- title: Memorial Sloan-Kettering Cancer Center
+- title: Deep Thirteen, Gizmonics Institute
+- title: Western Kentucky University, Bowling Green, KY
+- title: Data Parallel Systems, Inc
+- title: University of North Carolina Extended Bulletin Board Service
+- title: Communicator C3Consult AB
+- title: ILLINOIS INSTITUTE OF TECHNOLOGY, CHICAGO
+- title: Microelectronics Research Center
+- title: University of Oregon Network Services
+- title: Universite Laval
+- title: Yale University
+- title: cumc
+- title: Reed College, Portland, OR
+- title: McGill Research Centre for Intelligent Machines
+- title: M&E (Division of EDS), Cypress CA
+- title: City College of New York - Science Computing Facility
+- title: Dalhousie University, Halifax, Nova Scotia, Canada
+- title: Universitaet Bielefeld, Rechenzentrum
+- title: UCB Space Sciences Lab
+- title: Biomedical Engineering and Applied Therapeutics, CCF
+- title: pre-EE
+- title: Washington State University
+- title: The American University - University Computing Center
+- title: FSUACNS
+- title: Tufts University - Medford, MA
+- title: NASA/Goddard Space Flight Center
+- title: Msen, Inc. -- Ann Arbor, MI (account info +1 313 998-4562)
+- title: Tel-Aviv University Computation Center
+- title: Georgetown University
+- title: Motorola Computer Group, Urbana Design Center
+- title: Wolves Den UNIX
+- title: Reed College, Portland, Oregon
+- title: Calvin College
+- title: Oxford University VAX 6620
+- title: California State University Sacramento
+- title: 4th Dimension BBS
+- title: /home/franks/.organization
+- title: Los Alamos National Laboratory
+- title: FUJITSU.Ltd., Kawasaki, Japan.
+- title: Occidental College, Los Angeles, CA 90041 USA.
+- title: University of Missouri
+- title: GTE Govt. Systems, Electronics Def. Div.
+- title: The Johns Hopkins University - HCF
+- title: University of Toronto, Department of Industrial Engineering
+- title: University of Regina
+- title: Informix Software, Inc.
+- title: Illinois State University
+- title: Jack's Amazing CockRoach Capitalist Ventures
+- title: St. Joseph's University
+- title: University of Rochester (Rochester, NY)
+- title: the Syllabub Sea
+- title: MacContent BBS, Doncaster, Victoria, Australia
+- title: Div. of CS & Telematics, Norwegian Institute of Technology
+- title: University of Washington School of Law, Class of '95
+- title: CONCERT-CONNECT -- Public Access UNIX
+- title: Australian National University
+- title: Memories at Motorola
+- title: Analog Devices, Inc.
+- title: EdgeWays!
+- title: Bell-Northern Research Ltd., Ottawa
+- title: CS Dept, University of Texas at Austin
+- title: wyvern.com
+- title: University of Illinois, Dept. of Comp. Sci., Urbana, IL
+- title: Hewlett Packard, Fort Collins, CO
+- title: DSG, Dept. of Computer Science, Trinity College Dublin
+- title: Pyramid Technologies, Mt. View, California.
+- title: The MITRE Corporation
+- title: Baylor College of Medicine
+- title: Ono-Sendai Corporation
+- title: Air Force Institute of Technology
+- title: (not the opinions of) Apple Computer, Inc.
+- title: Unisys UNIX Portation Center, Blue Bell, PA
+- title: AI Lab, The University of Michigan
+- title: Bellcore, Livingston, NJ
+- title: The Ohio State University - Computer Science
+- title: nCUBE Corp., Foster City, CA
+- title: University of Kansas Computer Science Dept
+- title: UM - Kansas City, Computer Science
+- title: IMAG Institute, Grenoble, France
+- title: MIPS Technologies, Inc.
+- title: USC-ISI
+- title: "NASA Ames Research Center "
+- title: Fermi National Accelerator Laboratory
+- title: Cornell Theory Center
+- title: M.I.T. Media Laboratory
+- title: University of Michigan -- Ann Arbor
+- title: Free University of Berlin, Germany
+- title: Worcester Polytechnic Institute, Worcester, MA
+- title: BMUG, Inc.
+- title: University of Maine System
+- title: Apple Source BBS
+- title: MIT Media Laboratory
+- title: FidoNet node 12240/175.5 - Association Mac BBS, Grand Blanc MI
+- title: Calculus&Mathematica at UIUC
+- title: University of Michigan ITD Consulting and Support Services
+- title: St. Elizabeth Hospital, Youngstown, OH
+- title: Express Access Online Communications, Greenbelt, Maryland USA
+- title: Univ of Rochester, College of Engineering and Applied Science
+- title: Quake Public Access, Sylmar CA
+- title: Sound Impressions
+- title: FidoNet node 12603/204 - Not Even Odd, Forest Hills NY
+- title: Bell-Northern Research Ltd.
+- title: Central Illinois Surfing Club
+- title: "Control Data Systems Inc.  "
+- title: Inst. f. Thermodynamik u. Waermetechnik (ITW), U. of Stuttgart, FRG
+- title: The programmers who say NEE!
+- title: Massey University
+- title: UC San Diego Chemistry
+- title: U. C. Berkeley
+- title: Electric Power Research Institute
+- title: Harris Govt. Aerospace Systems Division
+- title: The MacRocosm BBS, Lawrence, KS
+- title: Aeronautical Research Laboratory, DSTO
+- title: The MacInteresteds of Nashville, Tn.
+- title: Multimedia Software Technology Group
+- title: RIT Research Corp
+- title: Florida State University
+- title: MDA-W
+- title: IMAG Institute, University of Grenoble, France
+- title: Motorola Inc. MMTG Oakhill Austin Texas
+- title: Junior, Social & Decision Sciences, Carnegie Mellon, Pittsburgh, PA
+- title: Physics Department, University of Utrecht, The Netherlands
+- title: Xetron Corp.
+- title: Naval Research Laboratory
+- title: Morgan Stanley & Company
+- title: Apple Computer, Inc.
+- title: Bucknell University
+- title: ER&E, Clinton, NJ.  Opinions solely the author's, not the Company's.
+- title: Boulder Valley School District
+- title: The Aerospace Corporation; El Segundo, CA
+- title: FidoNet node 12603/204.6 - Not Even Odd, Forest Hills NY
+- title: University of Denver, Denver, Colorado
+- title: Yale U.
+- title: Marshall University
+- title: Stratus Computers, Inc.
+- title: Mac Exchange BBS
+- title: Computer Using Educators of B.C., Canada
+- title: HoloNet National Internet Access System 510-704-1058/modem
+- title: Lafayette College
+- title: Eindhoven Univ. of Technology, The Netherlands
+- title: California State University, Fresno
+- title: University of Kaiserslautern
+- title: Charles Sturt University - Riverina, Wagga Wagga, NSW, Australia
+- title: Uppsala University Computing Center (UDAC)
+- title: Ostfold Regional College
+- title: IBM Toronto Lab
+- title: Apple Computer, Inc., Cupertino, California
+- title: Cyber Sanctum BBS 702.435.2179
+- title: the ModemLink Network, Long Island, New York
+- title: Adrenaline Online, (802) 425-2332, a FirstClass BBS
+- title: Seattle Mac dBUG
+- title: Nebula Consultants in San Francisco
+- title: The Ohio State University Dept. of Computer and Info. Science
+- title: Motorola Land Mobile Products Sector
+- title: Youngstown State/Youngstown Free-Net
+- title: Hughes STX, Lanham, MD
+- title: CATT Centre at CITRI, Melbourne, Australia
+- title: Vidiot's Other Hangout
+- title: The Internet
+- title: Ericsson Telecom AB
+- title: Analog Devices B.V., Limerick, IRELAND
+- title: Ohio State Computer Science
+- title: Joint European Torus
+- title: VISUAL, Inc.
+- title: Swiss Federal Institute of Technology (ETH), Zurich, CH
+- title: Not a lot
+- title: Old Dominion University, Norfolk, Va
+- title: Concurrent Computer Corp.  Westford, MA
+- title: University of Newcastle upon Tyne, UK, NE1 7RU
+- title: SAIC
+- title: Dept. of Statistics
+- title: Sun User Group
+- title: Basic Arrhythmia Laboratory, Duke Univ. Med. Center, Durham, N.C.
+- title: DuPont Central Research & Development
+- title: MacDonald Dettwiler, 13800 Commerce Parkway, Richmond, BC, Canada  V6V 2J3
+- title: Electrical Engineering Dept Manchester University
+- title: CenterLine Software, Inc.
+- title: British Telecom Research Labs
+- title: Sophomore, Physics, Carnegie Mellon, Pittsburgh, PA
+- title: Boston University
+- title: Shawsheen Software
+- title: Bellcore
+- title: O'Reilly and Associates, Inc.
+- title: lbl
+- title: University of Alberta, Edmonton, Canada
+- title: Integrated Computer Solutions, Inc.
+- title: Kubota Pacific Computer Inc.
+- title: Varco-Pruden Buildings
+- title: "{not speaking for the } National Naval Medical Center"
+- title: Picker International, Inc.
+- title: /users/student/coe/.organization
+- title: CSIRO Division of Radiophysics/Australia Telescope National Facility
+- title: Lehman Brothers
+- title: Bond University, AUSTRALIA
+- title: Sophomore, Civil Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: ELIN Energeanwendung Ges.m.b.H
+- title: The Gizmonic Institute
+- title: Uni-Essen
+- title: University of Hamburg, Germany
+- title: Zentrum fuer Graphische Datenverarbeitung, Darmstadt, FRG
+- title: CSD., University of Erlangen
+- title: University of South Florida, Department of Computer Science and Engineering
+- title: Oracle Europe
+- title: Computer Science, Concordia University, Montreal, Quebec
+- title: University of Missouri - Rolla
+- title: National Institute of Standards & Technology, Gaithersburg, MD
+- title: The Cleveland Clinic Foundation, Cleveland, OH
+- title: ACSC, Inc.
+- title: ITC/UVA Community Access UNIX/Internet Project
+- title: DEC Western Software Laboratory
+- title: Computer Sciences Corp.
+- title: University of Chicago, Astronomy and Astrophysics
+- title: SynOptics Communications, Santa Clara CA
+- title: Westfaelischen Wilhelms-Universitaet, Muenster, Germany
+- title: Western Geophysical Exploration Products
+- title: Not an official spokesperson for Ford Motor Company
+- title: Intel Corporation
+- title: State University of New York, Stony Brook
+- title: MacDonald Dettwiler and Associates
+- title: U of Cambridge, England
+- title: Dept. of Comp. Sci., Victoria Uni. of Wellington, New Zealand.
+- title: Battelle Pacific N.W. Labs
+- title: Imperial College of Science, Technology, and Medicine, London, England
+- title: Computer Science, CLIP lab, UPM Madrid, Spain.
+- title: be41t
+- title: Technical Research Centre of Finland
+- title: Stasys News Server, Starnberg, Germany
+- title: MIT Lincoln Laboratory
+- title: Techware Design, Boulder, CO. USA
+- title: Project Pilgrim, University of Massachusetts at Amherst
+- title: Ahold NV, Zaandam, Netherlands, EEC
+- title: Junior, Math/Computer Science, Carnegie Mellon, Pittsburgh, PA
+- title: Utah State University
+- title: Unify Corporation (Sacramento)
+- title: Surf City Software/TBFW Project
+- title: Leibniz-Rechenzentrum, Muenchen (Germany)
+- title: western geophysical exploration products
+- title: Experimental Computing Facility, U.C. Berkeley
+- title: Cities in Dust
+- title: Megatek Corporation, San Diego, California
+- title: CWI, Centre for Mathematics & Computer Science
+- title: "SNI AG Muenchen, STO XS "
+- title: Team Limpid's Meathead With Aptitude - Kunst und Wahnsinn
+- title: Digital Equipment Corporation -- CSC/Colorado Srpings
+- title: Universitaet Koblenz
+- title: Bear, Stearns & Co. - FAST
+- title: Sperry Marine, Inc.
+- title: Salomon Brothers, Ltd.
+- title: GE Corporate Research & Development, Schenectady, NY
+- title: UN*X Technologies
+- title: (Natl. Institutes of Health, Bethesda, MD)
+- title: Jet Propulsion Laboratory (NASA)
+- title: Siemens Industrial Automation, Johnson City TN
+- title: Columbia University Center for Telecommunications Research
+- title: Thinking Machines Corporation, Cambridge MA, USA
+- title: School of Computer Science, Carnegie Mellon, Pittsburgh, PA
+- title: University of Minnesota, Minneapolis, CSci dept.
+- title: University of Massachusetts/Amherst
+- title: QUALiX Group, Inc.
+- title: Hewlett Packard UTD-Corvallis
+- title: Computer Science dept.,  Univ. of Houston (Main Campus)
+- title: Lawrence Livermore National Laboratory
+- title: MPR Teltech Ltd.
+- title: Colorado School of Mines
+- title: ProTools Inc.
+- title: University of Western Sydney, Nepean
+- title: Laser-Scan Ltd., Cambridge
+- title: Alex Technologies Ltd, London, England
+- title: BDM International, Inc.
+- title: I-NET Inc.
+- title: Computer Science, University of Durham, Durham, UK. DH1 3LE
+- title: The Institute of Knowledge on Jinx
+- title: Univ. of Rochester, Dept. of Electrical Engineering
+- title: BOECOM Project - Boeing Computer Services, Seattle, Wa
+- title: Micro Focus Ltd.
+- title: NCAR/UCAR
+- title: Silicon Graphics Inc, Mountain View, CA
+- title: 3M Health Information Systems, Wallingford CT
+- title: Pittsburgh Supercomputing Center
+- title: Personal Library Software, Inc.
+- title: Texaco
+- title: INRIA, Sophia-Antipolis (Fr)
+- title: Bluestone Consulting Inc.
+- title: Sheffield Hallam University
+- title: Penn State Population Research Institute
+- title: British Aerospace (Defence) Ltd.
+- title: Wavefront Technologies Inc, Santa Barbara, CA
+- title: NetLabs, Inc.
+- title: Alchemy International
+- title: Eastman Kodak Company, Rochester NY
+- title: GatorNet, Lake Mary, Florida
+- title: National Center for Atmospheric Research
+- title: TECHbooks Public Access
+- title: Research Institute for Discrete Mathematics, Bonn
+- title: Association of NeXTSTEP Developers International
+- title: University of Bergen, Norway
+- title: Computing Research Lab
+- title: Boeing Computer Services, Seattle
+- title: Applicon, Inc.; Ann Arbor, MI (USA)
+- title: UMIACS, University of Maryland, College Park, MD 20742
+- title: Atlas Telecom Inc.
+- title: Institute of Astronomy, Cambridge
+- title: Lehrstuhl fuer Wirtschaftsinformatik - Universitaet Passau
+- title: "Adobe Systems, Mountain View, CA, USA "
+- title: Molecular Simulations Inc.
+- title: ParcPlace Boulder
+- title: Villanova University
+- title: bnr
+- title: Personal Usenet site, Tujunga, CA USA
+- title: Computer Science Department, Oregon State University
+- title: Nat'l Center for Supercomputing Applications
+- title: Lund Institute of Technology, Sweden
+- title: University of Wisconsin - Superior
+- title: Department of Mathematics, Queen's University at Kingston
+- title: Alsys Group, San Diego, CA, USA
+- title: Call Business Systems
+- title: American Institute of Physics
+- title: Wolfram Research, Inc.
+- title: Systems Strategies, Inc., NY, NY
+- title: The IBM PC User Group, UK.
+- title: Litwin Process Automation
+- title: Motorola (Austin,TX)
+- title: College of Engineering, Univ. Of Wisconsin-Madison
+- title: U. Wisconsin-Madison, Robotics Laboratory
+- title: UC Berkeley, CS Undergraduate Association
+- title: TI Semiconductor Process and Design Center
+- title: University of North Texas, Denton
+- title: Tybrin Corporation, Shalimar, FL
+- title: Bull S.A. Echirolles
+- title: IMEC, Kapeldreef 75  3001 Leuven  Belgium
+- title: PRC, Inc.
+- title: HP Panacom Div Waterloo ON Canada
+- title: University Corporation for Atmospheric Research (UCAR)
+- title: Tekelec Inc., Raleigh NC
+- title: University of Central Florida
+- title: University of North Dakota; Grand Forks, ND
+- title: Sun Microsystems
+- title: GE Information Services, Rockville, MD
+- title: Neuronal Pattern Analysis, University of Illinois
+- title: SBC Dominguez Barry Ltd
+- title: GE Corp. R & D, Schenectady, NY
+- title: Computer Science Engineering at the University of Texas at Arlington
+- title: The Wollongong Group (East Coast Operations)
+- title: SSC Lab
+- title: Superconducting Super Collider Laboratory
+- title: Delco Electronics Corp.
+- title: Cadre Technologies, Inc.
+- title: Virginia Tech, Blacksburg, VA
+- title: Ford Motor Company -- standard disclaimers apply
+- title: Graduate School and University Center, C.U.N.Y, New York
+- title: Department of Computer Science, University of Edinburgh
+- title: UW Networks and Distributed Computing
+- title: Yokogawa Electric Corporation, Tokyo, Japan
+- title: Ministry of Education, Computer Center NETNEWS system V2.3
+- title: Sun
+- title: StarNet Communications Corp.
+- title: Amdahl Corporation, Sunnyvale CA
+- title: ROSS Technology, Inc. Austin, Tx.
+- title: University of Sussex at Brighton
+- title: CERN -- European Organization for Nuclear Research
+- title: NAVSWC DD White Oak Det.
+- title: Sterling Software IMD. (Vienna,Va)
+- title: University of Hannover, FRG
+- title: Hewlett-Packard, Fort Collins, CO, USA
+- title: Delft Hydraulics
+- title: TRW Systems Division, Fairfax VA
+- title: SDD, COMSAT Labs, Clarksburg, MD
+- title: Carnegie Mellon, Pittsburgh, PA
+- title: Koala Project, Bull Research France
+- title: INMOS Limited, Bristol, UK
+- title: Forschungszentrum Informatik (FZI), Karlsruhe, Germany
+- title: 3M Company, 3M Center, Minnesota, USA
+- title: Capital Area Central Texas UNIX Society, Austin, Tx
+- title: Department of Computer Science, University of Rochester
+- title: Island Graphics Corp.
+- title: GE Corp. Research & Development, Schenectady, NY
+- title: Knee Deep in Sky High
+- title: C&C Systems Research Labs, NEC Corporation, Kawasaki, Japan
+- title: MIT Microsystems Technology Laboratories
+- title: Rhodes University, Grahamstown, South Africa
+- title: McMaster University, Hamilton, Ontario, Canada
+- title: Meteorology Department, Edinburgh University, Scotland
+- title: NASA Lewis Research Center
+- title: Xelion bv
+- title: U. Washington Dept. of Statistics
+- title: make it stop
+- title: INTERACTIVE Systems Corporation, Naperville, IL
+- title: GRASP Lab, University of Pennsylvania
+- title: SubNet - The NeXT Generation
+- title: NASA Goddard Space Flight Center - Greenbelt, MD USA
+- title: Motorola, Semiconductor Products Sector
+- title: SmartStar Corporation / Signal Technology
+- title: Helsinki University of Technology, CS lab
+- title: Mitel. Kanata (Ontario). Canada.
+- title: persian cat & carpet co.
+- title: Wind River Systems
+- title: Pyramid Technology, Government Systems
+- title: Case Western Reserve University, Cleveland, Ohio, USA
+- title: Bates College, Lewiston, ME
+- title: D.J. Services
+- title: Hewlett Packard Roseville Site
+- title: Exxon Research & Engineering Co.
+- title: Statistics Dept., U. C. Berkeley
+- title: North Carolina State University
+- title: Shady Rest Home
+- title: Occidental College, Los Angeles, CA.  USA
+- title: Goddard Space Flight Center, Greenbelt, Md, USA
+- title: University of North Carolina at Chapel Hill
+- title: Freshman, Mathematics, Carnegie Mellon, Pittsburgh, PA
+- title: GenRad, Inc.
+- title: TeleSciences CO Systems, Inc.
+- title: UCSF Computer Graphics Lab
+- title: Cincinnati Computer Connection - Cincinnati, OH - 513-752-1055
+- title: Purdue University Computing Center
+- title: Radian Corporation, Austin, Texas
+- title: University of Kansas Academic Computing Services
+- title: Kilowatt Computers, Deer Park, LI
+- title: Intergraph Corporation, Huntsville AL
+- title: Stratus Computer Inc, Marlboro MA
+- title: Center for Clinical Computing - Boston, MA.
+- title: Harvard University, Cambridge, MA
+- title: ECE Dept.,OSU,Corvallis
+- title: Sequent Computer Systems, Inc.
+- title: OSU CS Outreach Services, Corvallis, Oregon
+- title: NAWC
+- title: Lenoir-Rhyne College, Hickory, NC
+- title: Digital Equipment Corporation, Maynard, Ma.
+- title: Naval Oceanographic Office
+- title: 2M&I
+- title: Matrix Artists' Network
+- title: SELF
+- title: "Super Dimension Fortress - Public Access Unix - Dallas, Tx.. "
+- title: Philadelphia Area Computer Society
+- title: College of Engg. & Tech., Ohio University, Athens, Ohio
+- title: Technical and Computing Services, U.C. Berkeley, Berkeley, CA
+- title: Computer Science Department,  Stanford University.
+- title: DEC Systems Research Center
+- title: NOAA/CIRES (Univ Colo)
+- title: Philips Laboratories, Briarcliff Manor, NY.
+- title: Dixie Communications Public Access.  The Mouth of the South.
+- title: The Whole Earth 'Lectronic Link, Sausalito, CA
+- title: Illinois Institute of Technology / Academic Computing Center
+- title: CRL Internet Dialup Access    (415-389-UNIX   login guest)
+- title: Digital Equipment Corp.
+- title: PhDs In The Hall
+- title: Illinois Institute of Technology
+- title: Univ. of Florida Psychology Dept.
+- title: UNC Educational Computing Service
+- title: University of Tennessee, Knoxville - CS Department
+- title: Wibble
+- title: Pics OnLine! MultiUser System - 609-753-2540
+- title: North Dakota Higher Education Computer Network
+- title: Dept. of Mechanical Engineering and Applied Mechanics
+- title: Adelphi University
+- title: Sun Microsystems Inc., Mountain View, CA
+- title: Duke University; Durham, N.C.
+- title: University of Idaho, Moscow, Idaho
+- title: CS Dept. Oregon State University, Corvallis, Oregon.
+- title: Freshman, Design, Carnegie Mellon, Pittsburgh, PA
+- title: Western Business School
+- title: Oregon State University, Computer Science Dept.
+- title: Clemson University, Clemson SC
+- title: HoloNet National Internet Access System
+- title: University of Nevada System Computing Services
+- title: Wheaton College, IL
+- title: Auburn University Engineering
+- title: Fifth yr. senior, Electrical and Computer Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: Department of Computing at Lancaster University, UK.
+- title: Department of Computing at Lancaster University.
+- title: University of Lowell
+- title: The Johns Hopkins University CS Department
+- title: TRW Denver Operations
+- title: Taylor Balbach Software, Columbia, MD USA
+- title: Naval Postgraduate School, Monterey
+- title: WINCO
+- title: IQ Software Corp.
+- title: TnA Research
+- title: SEANEWS - Seattle Public Access News + Mail
+- title: Atmospheric & Environmental Research, Inc.
+- title: Lockheed Missiles & Space Company, Inc.
+- title: bsu
+- title: Interactive Development Environments, SF
+- title: Avoirdupois Institute
+- title: Hiram College
+- title: Litana Ltd.
+- title: Pacific * Bell
+- title: Concurrent Engineering Research Center
+- title: National Semiconductor, Santa Clara
+- title: sdf public access Unix - Dallas, TX.
+- title: University of Albany, SUNY
+- title: Indescribable Creations
+- title: Acuson; Mountain View, California
+- title: Interactive Systems
+- title: Small Business Systems, Incorporated, Smithfield, RI 02917
+- title: Athletics and Physical Education, Carnegie Mellon, Pittsburgh, PA
+- title: Amherst College
+- title: Data General Corporation, Research Triangle Park, NC
+- title: Stratus Computer, Software Engineering
+- title: Applied Research Labs, The University of Texas at Austin
+- title: camaro
+- title: Wichita State University, Wichita, Ks
+- title: " Wright State University "
+- title: "[none - why fight entropy?]"
+- title: Edgewood
+- title: Masters student, Industrial Administration, Carnegie Mellon, Pittsburgh, PA
+- title: Univ. of North Carolina @ Wilmington
+- title: Sun Microsystems Inc. - BDC
+- title: Data General Corporation, Westborough, MA
+- title: Penn State Engineering Computer Lab
+- title: University of Colorado at Boulder
+- title: Bucknell University, Lewisburg, PA, USA
+- title: EXCHANGE BBS *21 Nodes*  Tidewaters Window to the World 14.4bis (804)552-1010
+- title: University of Massachusetts Lowell
+- title: National Institutes of Health, Bethesda
+- title: Bristol Myers Squibb Pharmaceutical Research Institute
+- title: University of Arizona, Tucson, AZ
+- title: 3Com Corporation
+- title: University of Wisconsin - Parkside
+- title: The Ohio State University Dept of Electrical Engineering
+- title: SCN Research/Qic Laboratories of Tigard, Oregon.
+- title: University of California, San Francisco, Dept of Lab Med
+- title: Goucher College, Towson, MD
+- title: University of Maryland
+- title: NCSU Computing Center
+- title: Pacific Systems Group, Portland Oregon US
+- title: Sierra Geophysics, Inc.  Kirkland, WA
+- title: Wetware Diversions, San Francisco
+- title: Ohio University C.S. Dept, Athens
+- title: Doyle, Munroe Consultants, Inc., Hudson, MA
+- title: Central Michigan University
+- title: Z/Max Computer Solutions, Inc.
+- title: MIT Artificial Intelligence Laboratory
+- title: SEASnet, University of California, Los Angeles
+- title: University of California at Berkeley
+- title: Outland BBS
+- title: the HP Corporate notes server
+- title: Wayne State University
+- title: Department of Mathematics, The Ohio State University
+- title: "University of Nebraska--Lincoln\t"
+- title: Total Support Computer Systems, Tampa, Florida
+- title: Oregon State University, College of Oceanography
+- title: Digital Equipment Corporation - Marlboro, MA
+- title: University of Pennsylvania, School of Arts and Sciences
+- title: E 4th St Home For The Overeducated Underemployed - New Jersey Div.
+- title: University of Georgia, Athens
+- title: Virginia Commonwealth University
+- title: Sun Microsystems, Inc.  Mt. View, Ca.
+- title: Taligent, Inc.
+- title: Apple Computer Inc, Cupertino, CA
+- title: EDS C4 West
+- title: Cambridge Technology Partners
+- title: Naval Surface Warfare Center, Annapolis, MD
+- title: Pitt
+- title: University of California, at Berkeley
+- title: Memphis State University
+- title: CSC - NASA Langley Research Center
+- title: ZEN Self Constraint Institute of Technology
+- title: Firm ERIDAN
+- title: ProLine [pro-freedom] AppleVan (Apple UG of Vancouver, WA)
+- title: GDX-BBS,Central Pa Unix BBS/anon uucp (717)737-3249 PEP+/2400/1200 24hrs
+- title: Rensselaer Polytechnic Institute, Troy NY
+- title: Stanford University, California, USA
+- title: University of Minnesota, Duluth
+- title: Aquila BBS - Aurora, IL - 820-8344
+- title: Information Gateway BBS -- +1 404-928-7873
+- title: AT&T IMS - Piscataway, NJ (USA)
+- title: Washington University, St. Louis MO
+- title: University of Maryland University College
+- title: Johns Hopkins University, Homewood Academic Computing
+- title: MMC
+- title: Brown Computer Science Dept.
+- title: Siemens Corporate Research, Princeton (Plainsboro), NJ
+- title: General Dynamics Corp.
+- title: Pyramid Technology Corporation
+- title: IntraNet, Inc.
+- title: What you won't find on my desk.
+- title: "MOTOROLA "
+- title: Mortice Kern Systems Inc., Waterloo, Ontario, CANADA
+- title: U of Delaware, College of Marine Studies / Lewes
+- title: Motorola LMPS
+- title: Circle 'C' Shellfish Ranch, Shores-of-the-Pacific, California
+- title: Loral Software Productivity Laboratory
+- title: Educational Computing Network
+- title: AT&T Bell Laboratories
+- title: R.E.B.E.L.H.E.A.R.T.
+- title: CDAC, WA
+- title: Chevron
+- title: Stanford Center for Space Science and Astrophysics
+- title: High Country Software
+- title: ITS Branch, CSIRO, Australia
+- title: University of Wisconsin - Milwaukee
+- title: clearer than blir
+- title: CelsiusTech AB
+- title: BNR Europe Ltd.
+- title: Grumman Data Systems
+- title: Lappeenranta University of Technology, Finland
+- title: HP Sonoma County (SRSD/MWTD/MID)
+- title: Junior, Mechanical Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: "Hell                                           "
+- title: AT&T Bell Labs, Holmdel, NJ, USA
+- title: University of Rochester, Rochester NY
+- title: National Institute of Standards & Technology
+- title: Monsanto Company, St. Louis, MO
+- title: The Data Dimension PCBoard - Norcross, GA - 404-921-1186
+- title: NEC Systems Laboratory, Inc.
+- title: University of Oregon
+- title: AEGIS
+- title: New York State Institute for Sebastian Cabot Studies
+- title: ADEC Systems Inc.
+- title: Bull Information Systems Inc.
+- title: Chicago Home for the Morally Challenged
+- title: Intergraph Corporation
+- title: Landmark/ITA
+- title: Data General, Westboro, Mass.
+- title: "FAA Technical Center, Pomona, NJ\t"
+- title: Northeastern Ohio Universities College of Medicine
+- title: Doctoral student, Industrial Administration, Carnegie Mellon, Pittsburgh, PA
+- title: Fermilab Computing Division
+- title: SPS
+- title: Northern Telecom, Inc. - Network Application Systems
+- title: Hewlett-Packard Company
+- title: Dept. of Physics, Univ. of California, Irvine
+- title: The Cutting Edge - Houston, TX - 713-466-1525
+- title: Intergraph, AL
+- title: Amoco
+- title: Wake Forest University
+- title: Paging and Wireless Data Group
+- title: "A.S.I., Merritt Island, Florida "
+- title: Hewlett-Packard, Santa Clara, CA
+- title: TRIUMF Tri-University Meson Facility
+- title: Motorola SPS, Tempe, AZ
+- title: IBM T.J. Watson Research Center
+- title: NASA/ARC Information Sciences Division
+- title: Mechanical Engineering
+- title: Department of Mathematics, University of Canterbury
+- title: Sirius Cybernetics Corporation - Complaints
+- title: Addiction Studies Program, Seattle University
+- title: Technical University of Munich, Germany
+- title: ARP Software
+- title: Engineering, CONVEX Computer Corp., Richardson, Tx., USA
+- title: Marquette University - Department MSCS
+- title: University of Colorado Boulder, OCS
+- title: UniSQL, Inc., Austin, Texas, USA
+- title: Intergraph Corporation, Huntsville, AL
+- title: Western Washington University
+- title: MPR Teltech Ltd., Burnaby, B.C., Canada
+- title: Megatest Corporation
+- title: Colorado Springs IT Center
+- title: Corporation for Open Systems
+- title: Cabletron Systems, Inc.
+- title: University of Wisconsin, Milwaukee
+- title: A.S.I. n
+- title: Corollary, Inc.
+- title: John Fluke Mfg. Co., Inc., Everett, WA
+- title: Cirrus Logic Inc.
+- title: BoGART Graphics Development
+- title: GeoQuest System, Inc. Houston
+- title: Fujitsu New Zealand - Software Development Center
+- title: Cypress Semiconductor
+- title: CSU Fresno
+- title: The University of Utah
+- title: Lachman Technology, Inc., Naperville, IL
+- title: Ascom Hasler AG
+- title: University of South Australia
+- title: Trent University, Peterborough
+- title: Hewlett-Packard NARC Atlanta
+- title: Progress Software Corp.
+- title: North Carolina State University, Project EOS
+- title: HP Lake Stevens, WA
+- title: The Santa Cruz Operation
+- title: Nanyang Technological University - Singapore
+- title: Cybernet BBS, Boca Raton, Florida
+- title: Lawrence Berkeley Laboratory - Berkeley, CA, USA
+- title: Motorola, Mobile Data Division - Seattle, WA
+- title: TELXON Corporation
+- title: Research Computer Facility, MITRE Corporation, Bedford, MA
+- title: Hewlett-Packard / Boise, Idaho
+- title: Allen-Bradley Co.
+- title: Grass Valley Group, Grass Valley, CA
+- title: Tattooed Love Boys
+- title: ARCO Long Beach Inc.
+- title: Pencom Software
+- title: Government of Ontario
+- title: Anhedonics Anonymous
+- title: Nimbus Technology, Santa Clara, CA USA
+- title: ECE - Concordia University
+- title: /u/jwg/.organization
+- title: Measurex MSD
+- title: Auspex Systems, Inc.  Engineering
+- title: HP Colorado Computer Mfg. Operation
+- title: Private site in San Marcos, California
+- title: Motorola Codex
+- title: Spectragraphics Corporation
+- title: Intergraph
+- title: GM R&D
+- title: NCR Corporation
+- title: ITESM, Campus Monterrey
+- title: Schlumberger Data Services - Dallas
+- title: Idaho River Country, The Salmon, Payette, Clearwater, Boise, Selway, Priest.
+- title: Forest Lane Design Center
+- title: Boeing Commercial Airplane Group
+- title: University of Stellenbosch, SA
+- title: TP Performance
+- title: Computer Science Department at Rose-Hulman
+- title: Morgan Stanley - IS
+- title: "Cray Research\t"
+- title: Applied Research Labs, University of Texas at Austin
+- title: Univ. of Southwestern La., Lafayette
+- title: SHL Systemhouse Inc.
+- title: NCR Engineering and Manufacturing, San Diego, CA
+- title: Sanitarium BBS - Cambridge, Ontario, Canada
+- title: University of Westminster
+- title: Purdue University Physics Department
+- title: Network Systems Corporation
+- title: Ye Olde Bailey BBS - Houston, TX - 713-520-1569
+- title: Skidmore, somewhere down from reality
+- title: MIT
+- title: ASK Computer Systems, Ingres Product Division
+- title: Microtec Research, Santa Clara, California, USA
+- title: Evans & Sutherland Computer Corporation
+- title: Manes and Associates, NYC
+- title: Winona State University
+- title: -> ESKIMO NORTH (206) For-Ever <-
+- title: Waterloo Engineering
+- title: Sun Microsystems, RTP, NC
+- title: University College of Wales, Aberystwyth
+- title: University of Colorado Boulder, Pizza Disposal Group
+- title: NASA Science Internet Project Office
+- title: Autodesk Inc., Sausalito CA, USA
+- title: Virginia Tech, Blacksburg, Virginia
+- title: CompuTrac Inc., Richardson TX
+- title: Institute of Cognitive Studies, U.C. Berkeley
+- title: Mindcraft, Inc.
+- title: Motorola
+- title: The Cafe at the Edge of the Universe
+- title: Netcom - Online Communication Services
+- title: The Modem Palace
+- title: QueerNet
+- title: Oracle Corporation, Redwood Shores, CA
+- title: SeaHunt, San Francisco CA
+- title: Boeing Commercial Airplane BCS Support
+- title: Not an Organization
+- title: Junior, Electrical and Computer Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: University of Pennsylvania, Language Analysis Center
+- title: Oracle Corporation
+- title: Organization for Mass Confusion.
+- title: Robert Smits
+- title: Elect Armts Div, US Army Armt RDE Ctr, Picatinny Arsenal, NJ
+- title: Hewlett-Packard Company, Chelmsford, MA
+- title: Department of Rudeness and Pomposity
+- title: GE Corp R&D Center, Schenectady NY
+- title: PRC Realty Systems, McLean, VA
+- title: SunConnect
+- title: Tektronix - Colorado Data Systems, Englewood, CO
+- title: NOT
+- title: HOG HEAVEN
+- title: University of Saskatchewan
+- title: BNR Ltd.
+- title: Ontario Hydro - Research Division
+- title: Center for Composite Materials/University of Delaware
+- title: URI Department of Electrical Engineering
+- title: HP-UX Kernel Lab, Cupertino, CA
+- title: Applied Biosystems, Inc
+- title: HoloNet National Internet Access BBS 510-704-1058/modem
+- title: Computervision Corp., Bedford, Ma.
+- title: Computervision
+- title: Encore Computer Corp.
+- title: /usr/lib/news/organization
+- title: BNR Europe Ltd, Maidenhead, UK
+- title: The MITRE Corp., Bedford, Ma.
+- title: Computer Science Dept, QMW, University of London
+- title: The Laughing Gnome Software Farm, Atlanta, GA, USA
+- title: Black Belt Motorcyclists Association
+- title: Pacific*Bell ESAC, Oakland, CA.
+- title: NSWC, Carderock Division, Annapolis, MD, USA
+- title: Icom Simulations
+- title: Novell Inc.
+- title: Ungermann-Bass Inc./Andover, MA
+- title: Boeing Commercial Airplane Group, Seattle
+- title: Hewlett Packard Santa Clara Site
+- title: Computer Dynamics-Vancouver B.C.-(604)986-9937 (604)255-9937
+- title: Office of 'Tude Licensing
+- title: Organized?? Surely you jest!
+- title: Institute for Astronomy, Hawaii
+- title: Express Access Online Communications USA
+- title: Advanced Micro Devices, Santa Clara, CA
+- title: Hampshire College
+- title: Carnegie Mellon University
+- title: Microsoft Corporation
+- title: California State University, Sacramento
+- title: Hewlett-Packard, CCSY Messaging Centre, UK.
+- title: School of Engineering and Applied Sciences, UCLA
+- title: ClickTech, Tyngsboro, MA
+- title: Lunar & Planetary Laboratory, Tucson AZ.
+- title: ISC-Bunker Ramo, An Olivetti Company
+- title: Loral Western Development Labs
+- title: NCR E&M San Diego
+- title: Apple Computer
+- title: Newbridge Networks Corporation
+- title: Cray Research Inc, Eagan, MN
+- title: Whole Earth 'Lectronic Link
+- title: Omron Corporation / Carnegie Mellon
+- title: Microbial Pathogenesis and Motorcycle Maintenance
+- title: pnet
+- title: Cornell Univ. CS Dept, Ithaca NY 14853
+- title: Northern Telecom Inc, Mountain View, CA
+- title: InForm Group Ltd.
+- title: Network Computing Devices, Inc.
+- title: Netcom Online Communications Service
+- title: Mentor Graphics
+- title: The University of New Brunswick
+- title: Lachman Technology, Incorporated, Naperville, IL
+- title: Uppsala University
+- title: Sun Microsystems (UK) Ltd
+- title: UEA School of Information Systems, Norwich, UK.
+- title: Why do you suspect that?
+- title: Inland Steel Company; East Chicago, IN
+- title: University of East Anglia
+- title: Comp. Sci. Dept., Strathclyde Univ., Glasgow, Scotland.
+- title: HewlettPackardSantaRosaSystmsDiv,RohnertParkCA
+- title: Telecommunications Systems Support Centre, New Zealand
+- title: Climate and Global Dynamics Division/NCAR, Boulder, CO
+- title: National Institutes of Health, Bethesda, MD
+- title: Washington University, St. Louis
+- title: Norwegian Institute of Technology
+- title: Lockheed Missiles and Space Co.
+- title: Siemens Pacesetter, Inc.
+- title: Comp3, Inc.
+- title: Becton Dickinson Research Center R.T.P. NC USA
+- title: IUCF
+- title: AT&T Tridom, Engineering
+- title: University Libraries - Library Automatio, Carnegie Mellon, Pittsburgh, PA
+- title: BNR Ottawa, DMS Software Design
+- title: Thinkage Ltd.
+- title: Nat'l Ctr for Supercomp App (NCSA) @ University of Illinois
+- title: Locus Computing Corporation, Los Angeles, California
+- title: British Telecom
+- title: HP Design Technology Center, Santa Clara, CA
+- title: "BNR "
+- title: Gain Technology, Palo Alto, CA.
+- title: Computer Newspaper Services, Howden, UK.
+- title: Chemistry Dept., Harvard University
+- title: QNX Software Systems, Ltd.
+- title: Applied Research Office, NASA Ames Research Center
+- title: CompuServe Incorporated
+- title: Nihon Sun Microsystems - Atsugi Technical Centre - JAPAN.
+- title: Hughes Aircraft Co., El Segundo, CA
+- title: Pages Software Inc.
+- title: Freshman, Mechanical Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: University of Maryland, College Park, MD
+- title: Demon Internet Services.
+- title: /usr/ens/etc/organization
+- title: Harris Semiconductor, Melbourne  FL
+- title: Connemara - Computing for People
+- title: /usr/local/rn/organization
+- title: The San Jose, California, Home for Perverted Hackers
+- title: W. R. Slack
+- title: Ungermann-Bass SSE
+- title: If I were organized, why would I be reading News?
+- title: University of New South Wales
+- title: UT SAE / Longhorn Racing Team
+- title: Social Science Computing Laboratory
+- title: Moorhead State University, Moorhead, MN
+- title: Harold Brooks Duck L'Orange Club, Ltd.
+- title: Pomona College
+- title: Minnesota Twin Family Study - Univerity of Minnesota
+- title: Mead Data Central, Dayton OH
+- title: Somewhere in Hoboken
+- title: Li'l Carlos and the Hormones
+- title: IBM AIX/ESA Development, Kingston NY
+- title: Hewlett Packard
+- title: Biochemistry
+- title: Washington & Lee University
+- title: SCHUNIX Public Access Unix for Worcester County, MA, USA
+- title: The Little Projective Squids of the Poor
+- title: Pitzer College
+- title: Ball State University, Muncie, In - Univ. Computing Svc's
+- title: University of Nebraska--Lincoln
+- title: UIUC Department of Psychology
+- title: University of Otago, Dunedin, New Zealand
+- title: Department of Industrial Engineering
+- title: Data General Corporation, Linthicum, MD
+- title: Intergraph Corporation, Huntsville, Alabama
+- title: JTC Enterprises Sports Division (Major League Baseball Dept.)
+- title: Texas Instruments, Inc.
+- title: "Mount Allison U, Sackville, N.B. Canada "
+- title: Dana-Farber Cancer Institute
+- title: Home of the Brave
+- title: Harold Brooks Hot & Sour Soup Club, Ltd.
+- title: Ingres Corporation, A subsidiary of The ASK Group, Inc.
+- title: Dept of Math, Northwestern Univ
+- title: University of Wales College of Cardiff, Cardiff, WALES, UK.
+- title: Ross Perot Ear Admiration Society
+- title: Instructional Computing Center, SUNY at Oswego, Oswego, NY
+- title: LSU news
+- title: Ultra Network Technologies
+- title: Athena Design, Inc.
+- title: What, me organized?
+- title: Montana State University
+- title: Holos Software, Inc.
+- title: ENGINEERING AUTOMATION
+- title: University of Notre Dame - Office of Univ. Computing
+- title: Colorado Needs the Huckabay Kiteball Campaign Committee
+- title: Concordia University
+- title: Yale Computing Center
+- title: Hewlett Packard - Boise Printer Division
+- title: Skidmore College, Saratoga Springs NY
+- title: UMASS DARTMOUTH, NO. DARTMOUTH, MA.
+- title: Argonne National Laboratory
+- title: Olivetti North America (Shelton, CT)
+- title: IBM East Fishkill                                                        Subject Re Torre The worst manager?
+- title: Engineering and Support Division, NEC America, Inc.
+- title: CSE Dept., UC San Diego
+- title: U S WEST Advanced Technologies
+- title: Creative Sensualities dept, Jacquie's House of Underwear
+- title: AT&T Information Systems
+- title: AT&T Bell Laboratories, Murray Hill, NJ
+- title: Mistress Barbara's Dungeon Palace
+- title: University of Arizona, Biotechnology, Tucson
+- title: UofT Mechanical Engineering
+- title: Clark University (Worcester, MA)
+- title: The Matrix
+- title: Plymouth State College - Plymouth, N.H.
+- title: York University, Toronto, Canada
+- title: Panix Public Access Internet & Unix, NYC
+- title: Boo!
+- title: Post Office, Carnegie Mellon, Pittsburgh, PA
+- title: University of Yaleta
+- title: University of Lethbridge
+- title: Yale Univeristy
+- title: Sequoia Peripherals, Inc.
+- title: American Software Development Corp., West Babylon, NY
+- title: Julio Machado Candlelight Vigil Society
+- title: Freshman, H&SS general, Carnegie Mellon, Pittsburgh, PA
+- title: Memorial University of Newfoundland
+- title: None
+- title: The McCall Pattern Co., Manhattan, KS, USA
+- title: Xylogics, Inc. Burlington, MA, USA 01810
+- title: Bell Northern Research -- Dallas TX
+- title: The University of Alabama, Tuscaloosa
+- title: School of MPCE, Macquarie University, Australia.
+- title: Pittsburgh Supercomputing Center, Pittsburgh PA, USA
+- title: master/peon
+- title: Stephen F. Austin State University
+- title: Symantec/Peter Norton Group
+- title: Department of Mathematics, University of Toronto
+- title: Faculteit der Letteren, Rijksuniversiteit Groningen, NL
+- title: Eskimo North (206) 367-3837 {eskimo.com}
+- title: Brookhaven National Laboratory, Upton, NY 11973
+- title: Open Software Foundation - Research Institute
+- title: ESCA Corporation, Bellevue WA
+- title: Organization?  Who cares?  You just gotta say Go Bears!
+- title: Wayne State University Math Department, Detroit
+- title: DuPont Engineering Physics Laboratory
+- title: Cypress Semi, Beaverton OR
+- title: Bill's Safety Cab and Record Bar, Chickasha, OK
+- title: CMPO at MIT
+- title: York University
+- title: Unisys Defense Systems, Great Valley Labs, Paoli, Pa
+- title: Wright State University
+- title: Harvard Math Department
+- title: Julio Lundy Candlelight Vigil Society
+- title: Washington U. Physics Dept
+- title: The 1991 World Champion Minnesota Twins!
+- title: Our Lady Of The Stand-Up Triple
+- title: Georgetown University, Washington DC
+- title: OU - Academic User Services
+- title: Brotherhood Of Breath
+- title: University of Michigan - ITD Consulting and Support
+- title: ARCO Exploration and Production Technology
+- title: Scientific Computing Division/NCAR Boulder, CO
+- title: Solar Terresterial Physics Laboratory, ISTS
+- title: University of New Brunswick
+- title: Freshman, IM - MCS/CIT Track, Carnegie Mellon, Pittsburgh, PA
+- title: Abo Akademi University, Finland
+- title: cam.eng
+- title: IDACOM, A division of Hewlett-Packard
+- title: The University of Tulsa
+- title: Memorial University. St.John's Nfld, Canada
+- title: University of Manitoba, Winnipeg, Manitoba, Canada
+- title: Champlain Regional College, St-Lambert QC CANADA
+- title: Lindros traded!
+- title: University of Oklahoma, Norman, OK
+- title: Penn State, Null Device Department
+- title: Freshman, Physics, Carnegie Mellon, Pittsburgh, PA
+- title: Silicon Graphics, Inc
+- title: University of Nevada, Reno  Department of Computer Science
+- title: Ford Motor Company
+- title: Nokia Telecommunications.
+- title: Niels Bohr Institute and Nordita, Copenhagen
+- title: University of Helsinki, Computing Centre
+- title: Ericsson Telecom, Stockholm, Sweden
+- title: Ellemtel Telecom Systems Labs, Stockholm, Sweden
+- title: Data General Corporation, RTP, NC.
+- title: Hewlett-Packard, IDACOM Telecommunications Division
+- title: Crin - Inria-Lorraine
+- title: Sunsoft Inc., Los Angeles, CA.
+- title: Cadkey, Inc.
+- title: Nazi Right-Wing Parenting Monthly
+- title: Harris ESS, Melbourne, Fla.
+- title: Wayne State University, Detroit MI  U.S.A.
+- title: University Libraries - E&S Library, Carnegie Mellon, Pittsburgh, PA
+- title: UM-St. Louis
+- title: Naval Postgraduate School, Monterey CA
+- title: Department of Computer Science, University of Toronto
+- title: University of Turku, Finland
+- title: Home of 1984 NCAA hockey champs
+- title: University of Toronto - EPAS
+- title: Administrative Computing & Info Services, Carnegie Mellon, Pittsburgh, PA
+- title: R-node Public Access Unix - 1 416 249 5366
+- title: Colorado State University, Fort Collins, CO  80523
+- title: Geophysics & Astronomy, U.B.C. Vancouver, Canada
+- title: Senior, Economics, Carnegie Mellon, Pittsburgh, PA
+- title: CS Dept., Umass-Amherst
+- title: BGSU
+- title: Schlumberger CAD/CAM; Ann Arbor, Michigan (USA)
+- title: University of Kuopio, Finland
+- title: Central Red Army, Soviet Union
+- title: George Mason University, Fairfax, VA.
+- title: HMS
+- title: Home
+- title: University of Arizona - Tucson, Arizona
+- title: Applied Microsystems, Redmond, WA
+- title: Objectario
+- title: Computing & Information Systems, Yale University
+- title: Clemson University Engineering Department
+- title: BT Labs, Martlesham Heath, Ipswich, UK
+- title: University of Jyvaskyla, Finland
+- title: Gordon's Pinetree * Ottawa, Ontario, Canada
+- title: St. Olaf College; Northfield, MN
+- title: Mount Royal College, Calgary, Alberta
+- title: University of Toronto, Systems Control Group
+- title: Sophomore, Mathematics, Carnegie Mellon, Pittsburgh, PA
+- title: H&SS Dean's Office, Carnegie Mellon, Pittsburgh, PA
+- title: University of Rochester Hockey Science Dept.
+- title: BNR Ottawa
+- title: Ericsson Communication Inc.
+- title: Philips Laboratories, Briarcliff, NY 10510
+- title: " Personal Opinions Inc."
+- title: Sun Microsystems, Mountain View, CA  USA
+- title: Acadia University
+- title: Stanford Exploration Project
+- title: University of Victoria, Victoria B.C. CANADA
+- title: Department of Political Science, University of Minnesota
+- title: University of Calgary Computer Science
+- title: Bell-Northern Research Montreal, Canada.
+- title: Bell-Northern Research Ltd., Ottawa, Ontario, Canada
+- title: Embry-Riddle Aeronautical University, Daytona Beach, FL USA
+- title: University of Colorado at Colorado Springs
+- title: Go Sharks, Go Giants, Inc.
+- title: Siemens Nixdorf Informationssysteme AG
+- title: University of Bergen
+- title: Ashley, Howland & Wood
+- title: Dept. of Astronomy / Univ. of British Columbia
+- title: National Semiconductor Corporation
+- title: U.C. Berkeley Math. Department.
+- title: Freddy's Place BBS - Edmonton, AB - 403-456-4241
+- title: SPSS Inc.
+- title: NASA - Goddard Space Flight Center
+- title: Computer Science, Indiana University
+- title: Suite Software
+- title: capriccioso
+- title: University of Kaiserslautern, Germany
+- title: Yale CS Mail/News Gateway
+- title: U of Arizona, CS Dept, Tucson
+- title: Private Computer, Totowa, NJ
+- title: Dept. of Math, Harvard Univ.
+- title: Virus Test Center, University of Hamburg
+- title: Turing Police
+- title: Versant Object Technology
+- title: Cuddlehogs Anonymous
+- title: Cascade Design Automation
+- title: Penn State Computer Science
+- title: Forecast Systems Labs, NOAA, Boulder, CO USA
+- title: Curtin University of Technology
+- title: Thibault & Friends
+- title: Oce Graphics USA
+- title: TMP Enterprises
+- title: University of Missouri - Rolla, Rolla, MO
+- title: Computer Science Dept. University of Auckland
+- title: The MITRE Corporation, McLean, Virginia, USA
+- title: Queen's University, Kingston
+- title: Networked Systems Architecture
+- title: Banzai Institute
+- title: Qualcomm, Inc
+- title: Electronic Frontier Foundation
+- title: Comtech Labs Inc.
+- title: DSI/USCRPAC
+- title: Project Panda, Inc.
+- title: Kaleida Labs, Inc.
+- title: boring
+- title: UUNET Technologies Inc, Falls Church, VA
+- title: Citicorp
+- title: NASA Langley Research Center, Hampton, VA
+- title: Computer Science Departement of California State University inFresno
+- title: ClariNet Communications Corp.
+- title: Yale U. - Genetics
+- title: Trusted Information Systems, Inc.
+- title: Beckman Instruments, Inc.
+- title: Center For High Perf. Computing of WPI; Marlboro Ma
+- title: InterCon Systems Corporation - Herndon, VA  USA
+- title: The Crypt Cabal
+- title: Mary Ellen Carter Salvage Crew
+- title: Ministry of Truth
+- title: Elec. Eng., Univ. Natal, Durban, S. Africa
+- title: The University of Maryland, College Park
+- title: NWO Steering Committee
+- title: Department of Mathematical Sciences
+- title: Computer Science Dept, Indiana University
+- title: Totally Unorganized
+- title: School of Mathematical Sciences, University of Bath, UK
+- title: Paratheo-Anametamystikhood Of Eris Esoteric
+- title: Amdahl Corp., Sunnyvale CA
+- title: Amdahl Corp. 46525 Landing Parkway (M/S 581), Freemont CA 94538
+- title: Technical University of Graz, Austria
+- title: Computer Science, Monash University, Australia
+- title: ESCOM Corp., Oakton VA (USA)
+- title: Colorado State University, Computer Science Department
+- title: Celestial Software, Mercer Island, WA
+- title: Deutsches Elektronen Synchrotron, Experiment ZEUS bei HERA
+- title: "Cold Media "
+- title: College of CS, Northeastern U
+- title: I.E.C.C.
+- title: Univ. of Southwestern Louisiana
+- title: Division of Academic Computing, Northeastern University, Boston, MA. 02115 USA
+- title: University of Idaho, Moscow
+- title: Class Technology Corporation
+- title: Your typical phone company involved in your typical daydream
+- title: Panix, (New Yawk City)
+- title: The Temple of Stan - TBS World HQ - Concord, Mass, USA
+- title: Promis Systems Corp.
+- title: National Computer Security Center
+- title: Design Automaton Div., Texas Instruments, Inc.
+- title: Engineering Computer Network
+- title: Network Management Systems, Bell Northern Research.
+- title: Purdue Daemons
+- title: CWI, Amsterdam
+- title: Duke University Computer Science Dept.; Durham, N.C.
+- title: Glasgow University Computing Science Dept.
+- title: Little to None
+- title: Johns Hopkins University CS Dept.
+- title: New Technology, Inc.
+- title: Mission Operations and Data Systems
+- title: Sorcerer's Apprentice Cleaning Services
+- title: UCLA, Computer Science Department
+- title: Open Communications Forum
+- title: The University of Texas - Austin
+- title: FSU Supercomputer Computations Research Institute
+- title: IBM  T. J. Watson Research Center
+- title: Chaos
+- title: C-Set/2 Development, IBM Canada Lab.
+- title: Kendall Square Research Corp.
+- title: Motorola, Land Mobile Products Sector
+- title: Partnership for an America Free Drug
+- title: Metatron Press / Human Systems Performance Group, Austin, TX
+- title: MercWorks, Denver
+- title: Cygnus Support, Cambridge, MA USA
+- title: Brought to you by the numbers 2, 3, and 7
+- title: U of Cambridge Computer Lab, UK
+- title: Cooperative Computing, Inc.
+- title: Loral Rolm Mil-Spec Computers
+- title: Optilink Corporation, Petaluma, CA
+- title: CMC Network Systems (Rockwell DCD), Santa Barbara, CA, USA
+- title: The Mitre Corp., Bedford, MA.
+- title: Management Graphics, Inc.
+- title: University of North Carolina at Asheville
+- title: Department of Mathematics
+- title: Kubota Pacific Computer, Inc.
+- title: University of Illinois @ Urbana/Champaign
+- title: Vitalink Communications / Network Systems Corp., Fremont, CA
+- title: La Trobe University
+- title: York U. Student Information Systems Project
+- title: Inland Sea
+- title: Computervision, San Diego, CA
+- title: J. Stefan Institute, Lj, Slovenia
+- title: Computational Linguistics Dept., U Saarbruecken
+- title: Long Island Pubnet - long may it rave!
+- title: I'm Just Me.
+- title: Memex Information Systems Ltd, East Kilbrde, Scotland
+- title: Just me.
+- title: Clam Associates
+- title: Communications Research Centre, Ottawa
+- title: "Edmonton Remote Systems #3, Edmonton, AB, Canada"
+- title: UTCC Public Access
+- title: Medical College of Virginia
+- title: Northeastern University
+- title: Society for the conservation of momentum
+- title: Test Systems Strategies, Inc., Beaverton, Oregon
+- title: Harlequin Limited, Cambridge, England
+- title: Beckman Software Engineering
+- title: Metaflow Technologies Inc.
+- title: Macquarie University, Sydney Australia
+- title: is a nice thing...
+- title: Northern Telecom, Inc.
+- title: The World in Boston
+- title: Las Vegas Sun
+- title: " George Mason University, Fairfax Va."
+- title: VisiCom Laboratories, Inc., San Diego, California
+- title: Loral Rolm Computer Systems
+- title: Minnesota Supercomputer Center, Minneapolis, MN
+- title: National Oceanic & Atmospheric Adminstration / Boulder Labs
+- title: Enormes_Rebajas_Online
+- title: CSIR, South AFrica
+- title: Universitaetsrechenzentrum, Heinrich-Heine-Universitaet, Duesseldorf
+- title: Johannes Gutenberg Universitaet Mainz
+- title: Physio-Control
+- title: Advanced RISC Machines Ltd
+- title: Cadre Technologies Inc.
+- title: MCSNet, Chicago, IL
+- title: MCC Experimental Systems Lab
+- title: Robotics Institute, Carnegie Mellon, Pittsburgh, PA
+- title: Montagar Software Concepts, Plano TX
+- title: Utter Chaos in Islip, Long Island, New York (we think)
+- title: The Great Beyond
+- title: Data Research Associates, St. Louis MO
+- title: 4-L Laboratories
+- title: System 6626 BBS, Winnipeg Manitoba Canada
+- title: AECL Research, Whiteshell Laboratories
+- title: Motorola Computer Group, Tempe, Az.
+- title: SLAMDANZ CYBRNETX
+- title: Kernel Mode Systems, San Diego, CA
+- title: NASA Langley Research Center and Reptile Farm
+- title: De Montfort University, Leicester, UK
+- title: Macquarie University
+- title: Triacus Inc.
+- title: Senior, Electrical and Computer Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: NCR Corporation Wichita, KS
+- title: GMD, Sankt Augustin, Germany
+- title: Delft University of Technology, Dept. of Electrical Engineering
+- title: EO Europe Limited, Cambridge, UK
+- title: The Inquiring Mind BBS  1 204 488-1607
+- title: Trivializers R Us
+- title: Ozone Online Operations, Inc., DBA The Ozone Hole BBS
+- title: Oklahoma State University, Computer Science, Stillwater
+- title: Fermi National Accelerator Lab
+- title: Analog
+- title: your service
+- title: Virginia's Public Education Network (Richmond)
+- title: Texas Instruments, Defense, Systems and Electronics Group.
+- title: University of Limerick, Ireland
+- title: MCNC Center for Microelectronics, RTP, NC
+- title: Edinboro University of PA
+- title: IBM Coporation - Advanced Workstations and Systems.
+- title: Multimedia Computing Group
+- title: University of Alberta Electrical Engineering
+- title: Materials Research Lab
+- title: University of Rhode Island / College of Engineering
+- title: Academic Computing Services, Cal Poly San Luis Obispo
+- title: Olivetti North America, Spokane, WA
+- title: SDSU - LARC
+- title: Litton Systems, Toronto ONT
+- title: Motorola, Inc. (Cellular Infrastructure)
+- title: Motorola Western MCU Design Center, Chandler Arizona
+- title: U of Toronto Zoology
+- title: iex
+- title: Horizon Research, Inc.
+- title: NASA Langley Research Center
+- title: Medical Informatics, Pittsburgh, PA USA
+- title: Utah State Univ. EE
+- title: University of Michigan, Mathematics Department, Ann Arbor
+- title: Univ. of Lowell CS Dept.
+- title: ZikZak Corporation
+- title: University of Arizona UNIX Users Group
+- title: Tektronix TV Products
+- title: JPL Pasadena CA
+- title: Harris Controls
+- title: Boston Computer Society / ISIG
+- title: De Montfort University, Leicester, UK.
+- title: University of Calgary
+- title: Lawrence Livermore National Laboratory, NCD
+- title: Duke Medical Center - Radiology
+- title: Laurentian University
+- title: Queen's University at Kingston
+- title: E-Systems, Melpar Division
+- title: University of Technology, Sydney
+- title: Elegant Communications Inc., Ottawa, Canada
+- title: SSC, Inc.,  Seattle, WA
+- title: University of Oulu, Dept. of EE, Finland
+- title: Siemens AG Oesterreich
+- title: Institut fuer Informatik
+- title: National Hospitals, Iceland
+- title: CSIR
+- title: Mentor Graphics Corp. -- IC Group
+- title: Tartu University, Department of Chemistry
+- title: NCR Corporation -- Law Department
+- title: GEC-Marconi Research Centre, Great Baddow, UK
+- title: Washington University in Saint Louis, MO USA
+- title: (N.) To be organized.  But that's not important right now.....
+- title: Western Geo. - Div of Western Atlas Intn'l Inc., Houston, TX
+- title: Eastman Kodak
+- title: Auburn University, AL
+- title: Geophysical Institute, Fairbanks, AK
+- title: NRK Clinic for habitual NetNews abusers - Beltway Annex
+- title: Boeing Computer Services (ESP), Seattle, WA
+- title: Harris Allied Broadcast Div., Quincy, IL
+- title: Adelphi University, Garden City NY
+- title: Amoco Production
+- title: "null"
+- title: University of Montana
+- title: Oakland University, Rochester MI.
+- title: University of Wales, Aberystwyth
+- title: Virginia's Public Education Network (Norfolk)
+- title: SMU - School of Engineering & Applied Science - Dallas
+- title: Chaos live
+- title: Philips Public Telecommunications Systems, Melbourne, Australia
+- title: University of Western Ontario, London
+- title: little scraps of paper, mostly
+- title: Interkantonales Technikum Rapperswil (ITR) Switzerland
+- title: REDIRIS, Red Nacional de I+D
+- title: Acorn Computers Ltd, Cambridge, UK
+- title: APG-Edgewood, MD, USA
+- title: University of Cape Town
+- title: Defence Research Establishment Suffield
+- title: NASA/MSFC
+- title: Univ. of Notre Dame
+- title: DEC Cambridge Research Lab
+- title: Lockheed Sanders
+- title: Commodore Computer Club / PaNorAmA
+- title: National Federation of the Blind of California
+- title: Amateur Radio VE6BC
+- title: PAX - Public Access Unix (Adelaide)
+- title: NCR Corp., Columbia SC
+- title: Performance Technologies, Incorporated
+- title: DSG Development Eng Beckman Instruments Inc.
+- title: At UT? That's a joke.
+- title: Systems'n'Software
+- title: MIT Advanced Television Research Program
+- title: Wits University Electrical Engineering
+- title: Iowa State University of Science and Technology, Ames, Iowa.
+- title: Technische Universitaet Ilmenau
+- title: Department of Electrical and Computer Engineering, University of Toronto
+- title: Humber College Technology Dept.
+- title: Electrical Engineering, University of Canterbury, New Zealand
+- title: Chalmers University of Technology
+- title: RAND
+- title: DSC/Optilink Access Products
+- title: Lao-Sinh project (private UUCP site)
+- title: Traiders of the Lost .ARC! - Edmonton, Alberta, Canada
+- title: Imax Corporation, Mississauga Canada
+- title: Aiken Computation Lab, Harvard University
+- title: "T I H / T I S I P "
+- title: Why me?
+- title: Virginia's Public Education Network (Charlottesville)
+- title: Hewlett-Packard Fort Collins Site
+- title: Color Computer 3 Tandy's 'game' machine
+- title: Michigan State University, College of Veterinary Medicine
+- title: Box of Rain Productions
+- title: Sun Microsystems, Mountain View CA
+- title: Steward Observatory, Univ. of Arizona, Tucson
+- title: " Colorado Concert Sound"
+- title: College of Natural Resources, Colo. State Univ.
+- title: Ericsson Network Systems, Inc.
+- title: Ames Laboratory, ISU
+- title: Comp.Center (RUS), U of Stuttgart, FRG
+- title: McGill University - MACS Laboratory, Montreal, CANADA.
+- title: The Northern Lights BBS, Portland, ME  * 207-761-4782 *
+- title: Ozone Online Operations, Inc. - New Orleans, LA
+- title: University of California, Santa Cruz
+- title: ACSYS, Inc.
+- title: Antone's Italian Kitchen and Excellence in Operating Network
+- title: " University of Wisconsin Academic Computing Center"
+- title: SFBAC
+- title: UIUC SCS
+- title: University of Rochester
+- title: Doctoral student, Public Policy and Management, Carnegie Mellon, Pittsburgh, PA
+- title: Gastroenterology - Univ of Alabama
+- title: Buster irby
+- title: Immunex Corporation, Seattle, WA
+- title: Imaging Systems Division, NCR Corp, Waterloo, Ont., CANADA
+- title: S.P. Dyer Computer Consulting, Cambridge MA
+- title: Invention Factory's BBS - New York City, NY - 212-274-8298v.32bis
+- title: University of Colorado at Denver
+- title: Omen Technology INC, Portland Rain Forest
+- title: Naval Research Laboratory  (Electronics Science and Technology Division)
+- title: Privately owned and operated UUCP site.
+- title: Actrix Networks
+- title: HP California Design Center, Santa Clara, CA
+- title: Lockheed Engineering & Sciences Co.
+- title: Watson Research Center
+- title: Philosophy Dept., Wesleyan University
+- title: The Information Deli - via Netcom / San Jose, California
+- title: NASA Dryden, Edwards, Cal.
+- title: Department of Computer Science, UWO, Canada
+- title: Univ. of Pittsburgh Computer Science
+- title: Univ. of Colorado-Boulder
+- title: KY3B - Vax Pittsburgh, PA
+- title: Hitachi Computer Products, OSSD division
+- title: Computer Science & Engineering, U. of Washington, Seattle
+- title: Department of Chemistry, Cornell Univ.
+- title: Pittsburgh Transplant Institute
+- title: University of Hawaii (Mathematics Dept)
+- title: NASA Langley Research Center, Hampton VA, USA
+- title: Flames 'R Us
+- title: U.C. Berkeley -- ERL
+- title: Computing Lab, University of Kent at Canterbury, UK.
+- title: Virginia's Public Education Network (Radford)
+- title: CEA
+- title: Purdue University Statistics Department
+- title: UAB - Gastroenterology
+- title: Citibank IBISM
+- title: Beth Israel Hospital, Harvard Medical School, Boston Mass., USA
+- title: "Mass General Hospital CIPR "
+- title: AT&T Middletown N.J. U.S.A.
+- title: Sybase, Inc.
+- title: HST Wide Field/Planetary Camera
+- title: Open Systems Solutions Inc.
+- title: Infamy Inc.
+- title: The Hebrew University of Jerusalem
+- title: UM Anesthesiology
+- title: Code 916, NASA Goddard Space Flight Center
+- title: Carleton University, Ottawa, Canada
+- title: IRCAM, Paris (France)
+- title: Center for Reliable and High-Performance Computing, University of Illinois at Urbana-Champaign
+- title: Reasoning Systems, Inc., Palo Alto, CA
+- title: InterViews/Allegro group, Stanford University
+- title: GTE Laboratories Inc.
+- title: Concordia University, Montreal, Quebec
+- title: Dep. Computer Science & Engin. of Chiao Tung U., Taiwan, ROC
+- title: College of Veterinary Medicine WSU
+- title: Express Access Public Access UNIX, Greenbelt, Maryland USA
+- title: Clinical Diagnostics Division, Eastman Kodak Company
+- title: University of Vermont -- Division of EMBA Computer Facility
+- title: Lamont-Doherty Earth Observatory
+- title: SysLang, Inc.
+- title: Pittsburgh Transplan Institute
+- title: Gia Kiria
+- title: "Dartmouth College "
+- title: Tx Metronet Communications Services, Dallas Tx
+- title: The Instrumentality
+- title: Colonial Mutual Life Australia
+- title: American Cyanamid Company
+- title: Telectronics Pacing Systems
+- title: Department of Computer Science, University of Linkoping
+- title: Bellcore, Piscataway, NJ
+- title: Institute of Theoretical and Experimental Biophysics
+- title: chevron
+- title: University of Nevada at Las Vegas, College of Engineering
+- title: The Santa Cruz Operation, Inc.
+- title: Pittsburgh TRansplant Institute
+- title: Vrije Universiteit Brussel Faculteit Geneeskunde
+- title: Inst. de Recherche et Coordination Acoustique/Musique, Paris
+- title: European Organization for Nuclear Research, CERN
+- title: sdf public access Unix, Dallas TX 214/436-3281
+- title: Hewlett-Packard LTD, South Queensferry, Scotland
+- title: Jet Propulsion Laboratory, Pasadena, CA
+- title: Youngstown State University
+- title: GTE Government Systems, Federal Systems Division, Chantilly, VA
+- title: SCRI, Florida State University
+- title: The Old Frog's Almanac
+- title: The Old Frog's Almanac, Nanaimo, B.C.
+- title: Pegasus,  Honolulu
+- title: Tripos Associates, Inc.
+- title: Wesleyan University, Middletown, CT USA
+- title: Quake Public Access, San Fernando Valley, CA (818)362-6092
+- title: NYNEX Science & Technology, Inc
+- title: UTCC
+- title: U.T.M.D. Anderson Cancer Center
+- title: MIT PLASMA FUSION CENTER
+- title: San Diego State University
+- title: Anasazi, Inc.  Phoenix, Arizona USA
+- title: McDonnell Douglas Aerospace
+- title: National Research Council of Canada
+- title: Purdue University SVM
+- title: Stat Gateway Service, WB7TPY
+- title: CDP VLBI
+- title: Department of Physiology, University of Sydney, NSW, Australia
+- title: NIH
+- title: Data I/O Corporation
+- title: Institute of Biotechnology (Univ. Helsinki)
+- title: U of Wisconsin CS Dept
+- title: Strawman Incorporated
+- title: Gastroenterology - Univ. of Alabama
+- title: StorageTek SW Engineering
+- title: OSU College of Osteopathic Medicine
+- title: "The Wild Wacky World of Dolly Parton Clones in Zero Gravity "
+- title: Flight Data and Evaluation Office
+- title: Hyperion, Mountain View, CA, USA
+- title: nCUBE, Sandia Park, NM
+- title: Surgical Materials Testing Laboratory
+- title: Ericsson
+- title: Peridot Konsult i Mellansverige AB, Oerebro, Sweden
+- title: Craggenmoore public Unix system , Newcastle , Oz
+- title: Ecole Polytechnique Federale de Lausanne
+- title: Rosemount, Inc.
+- title: Communications Research Centre, Ottawa, Canada
+- title: Forestry Canada (Pacific Forestry Centre)
+- title: Telesciences CO Systems, Inc.
+- title: Laboratory Systems & Technology, Ltd.
+- title: BNR Inc. RTP, NC
+- title: University of North Carolina, Chapel Hill
+- title: LifeForms Unlimited, Cephalopods
+- title: "[via International Space University]"
+- title: University of Alaska Fairbanks
+- title: Burdett, Buckeridge & Young, Melbourne, Australia
+- title: "Mentor Graphics "
+- title: Swedish Institute of Computer Science, Kista
+- title: TECHbooks --- Public Access UNIX --- (503) 220-0636
+- title: Evil Geniuses for a Better Tomorrow
+- title: NASA/JSC/GM2, Space Shuttle Program Office
+- title: Texas Instruments Inc
+- title: Trinity College Dublin
+- title: Organization?  You must be kidding.
+- title: Ryukoku Univ., Seta, Japan
+- title: TI/DSEG VAX Support
+- title: Science Applications Int'l Corp./San Diego
+- title: The Dorsai Grey Captains
+- title: NASA Lewis Research Center / Cleveland, Ohio
+- title: The NSS BBS, Pittsburgh PA (412) 366-5208
+- title: Computer Aided Design Lab, U. of Maryland College Park
+- title: Statistics, Pure & Applied Mathematics, University of Adelaide
+- title: NASA Langley Research Center, Hampton, VA  USA
+- title: Fidonet. Gate admin is fido@socs.uts.edu.au
+- title: SED, Stanford Telecom, Reston, VA 22090
+- title: Goddard Space Flight Center - Robotics Lab
+- title: Lick Observatory/UCO
+- title: University of Texas at Austin Computation Center
+- title: Evans & Sutherland Computer Corp.
+- title: Dept. of Energy, Mines, and Resources, Ottawa
+- title: ESOC European Space Operations Centre
+- title: ICEM Systems, Inc.
+- title: "NASA/JSC/GM2, Space Shuttle Program Office "
+- title: AT&T Bell Labs - Naperville, IL.
+- title: Vis-Orb Tragnetics Recorporation
+- title: UUNET Technologies Inc, Falls Church, VA, USA
+- title: Colorado State University -=- Computer Science Dept.
+- title: Boeing AI Center, Huntsville, AL
+- title: University of California, Riverside
+- title: Simon Fraser University
+- title: Alpha Science Computer Network, Denver, Co.
+- title: San Diego Supercomputer Center @ UCSD
+- title: Shakala BBS (ClanZen Radio Network) Sunnyvale, CA +1-408-734-2289
+- title: Mystery Spot BBS
+- title: University of Massachusetts at Boston
+- title: Destructive Testing Systems
+- title: Me, at The World Public Access UNIX, Brookline, MA
+- title: NSPC
+- title: Smithsonian Astrophysical Observatory, Cambridge, MA,  USA
+- title: Barrios Technology @ NASA/JSC; Houston
+- title: SoftQuad Inc., Toronto, Canada
+- title: University of California - Santa Cruz
+- title: None. On USENET I speak only for myself.
+- title: School of Computer Science, Carnegie Mellon University
+- title: Jet Propulsion Laboratory, NASA/Caltech
+- title: Express Access Online Communications, Greenbelt MD USA
+- title: NASA Ames Research Center
+- title: Tandem Computers Incorporated, Cupertino, CA
+- title: Dynamic Graphics Inc.
+- title: The Trystro System (617) 625-7155 v.32/v.42bis
+- title: National Radio Astronomy Observatory
+- title: Motorola_Codex
+- title: Rutherford Appleton Lab, UK
+- title: Starfleet, Coventry, UK
+- title: UofR Laboratory for Laser Energetics
+- title: 1776 Enterprises, Sudbury MA
+- title: Motorola Semiconductor Products Sector
+- title: Canon Information Systems Research Australia
+- title: Drexel University, College of Engineering, Philadelphia, PA
+- title: Retro Aerospace
+- title: Math Madhouse Bielefeld, Germany
+- title: Inland Steel Company, East Chicago, IN
+- title: Draper Laboratory
+- title: University of New Mexico, Albuquerque, NM
+- title: Lockheed Engineering & Sciences Company
+- title: Kendall Square Research Corp
+- title: IDA Center for Communications Research
+- title: stanford
+- title: University of Adelaide
+- title: Florida State University Geology Dept.
+- title: Applied Math, University of Bonn, Germany
+- title: California Institute of Technology, Pasadena, CA
+- title: IBM, Federal Systems Co. Software Services
+- title: Visix Software, Reston, Virginia
+- title: University of Wisconsin - Astronomy Department
+- title: University of Hawaii
+- title: Brunel University, West London, UK
+- title: BNR-Europe-Limited, Maidenhead, England
+- title: Intergraph Electronics
+- title: Never Had It, Never Will
+- title: Lahmeyer International, Frankfurt
+- title: NAS, NASA Ames Research Center, Moffett Field, California
+- title: Caltech  Pasadena, California, USA
+- title: Alberta Research Council
+- title: ARCO Oil and Gas Company
+- title: University of Maryland, Chesapeake Biological Laboratory
+- title: Center for Space Research, University of Texas at Austin
+- title: Space Telescope Science Institute, Baltimore MD
+- title: Worcester Polytechnic Institute, Worcester, MA 01609-2280
+- title: Mars Observer TES Project, ASU, Tempe AZ
+- title: Muppet Labs
+- title: SABER - Sistemas de Informacao, Lda.
+- title: LTE, University of Erlangen, Germany
+- title: NASA/JSC/GM2, Space Shuttle Program Office From kjenks@gothamcity.jsc.nasa.gov
+- title: University of Technology Sydney
+- title: Bell Northern Research, Ottawa, Canada
+- title: BBN, Interzone Office
+- title: Computer Science Lab, SRI International, Menlo Park, CA.
+- title: Netcom
+- title: Applied Research Laboratories, University of Texas at Austin
+- title: Anasazi Inc Phx Az USA
+- title: Hell
+- title: Pacific * Bell, San Ramon, CA
+- title: Bucknell University, Lewisburg, PA
+- title: Kulikauskas home
+- title: J. Random Misconfigured Site
+- title: Shell Oil
+- title: National Association for the Disorganized
+- title: Applied Presuppositionalism, Ltd.
+- title: University of Blaspheme
+- title: Case Western Reserve Univ. Cleveland, Ohio (USA)
+- title: The Claremont Graduate School
+- title: l'organisation, c'est moi
+- title: trunking_fixed
+- title: Gustavus Adolphus College
+- title: University of South Africa
+- title: Rowan College of New Jersey
+- title: AT&T Bell Laboratories, Murray Hill, NJ, USA
+- title: MIT Lincoln Lab - Group 41
+- title: ingr
+- title: Univ. Texas-Houston Allied Health Sci
+- title: Social Science Computing
+- title: Cabletron Systems Inc.
+- title: not Sun Microsystems
+- title: UH Dept of Math
+- title: Supercomputer Computations Research Institute
+- title: Marine Biological Laboratory
+- title: University of Canterbury, Christchurch, New Zealand.
+- title: Washington University Astrophysics
+- title: FNAL/AD/Net
+- title: Technical University Vienna, Dept. for Realtime Systems, AUSTRIA
+- title: Dept of E & E Eng, U of M
+- title: Cornell University CIT
+- title: Rogaland University Centre
+- title: Mentor Graphics Corporation
+- title: Huh?  Whuzzat?
+- title: University of Georgia - UCNS
+- title: Freshman, Civil Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: delab
+- title: Motorola LPA Development
+- title: Dayton Microcomputer Association; Dayton, Ohio
+- title: Monash University - Melbourne. Australia.
+- title: Department of Geological Sciences, SUNY at Albany
+- title: =CSE Dept., U.C. San Diego
+- title: Interactive Development Environmenmts, SF
+- title: VAX Cluster, Computer Centre, La Trobe University
+- title: The Duck Pond public unix +1 408 249 9630, log in as 'guest'.
+- title: BP Research, Cleveland, OH (USA)
+- title: uwcc
+- title: Kalamazoo College Alumni Association
+- title: AT&T Bell Labs
+- title: Univ. of Wisconsin,Madison., NEEP Department
+- title: BoGART To You Buddy, Bellevue, WA
+- title: HFSI
+- title: Raytheon Equipment Division, Marlboro, MA
+- title: Motorola Paging and Telepoint Systems Group
+- title: Computer Science Dept, QMW, University of London, UK.
+- title: SHLRC, Macquarie University
+- title: Telerama Public Access Internet, Pittsburgh, PA
+- title: The Land of Garg
+- title: University of Otago
+- title: University of Alaska
+- title: CCLI Macintosh Lab, Michigan Tech University
+- title: Merrimack College, No. Andover, MA, USA
+- title: Bowling Green State University Student
+- title: Procom Technology, Inc.
+- title: Centre for Mathematical Software Research, Univ. Liverpool
+- title: Pygmalion Productions
+- title: School of Arts and Sciences, UPENN
+- title: University of Utah CS Dept
+- title: University of Victoria
+- title: Whatever
+- title: New Jersey Institute of Technology
+- title: CSLI, Stanford University
+- title: Calspan Advanced Technology Center
+- title: Ideology Busters, Inc.
+- title: Intel Supercomputer Systems Division
+- title: Hewlett-Packard Laboratories Palo Alto,CA
+- title: You wouldn't ask this if you'd seen my desk.
+- title: The Reality Liberation Front (pixels to the people!)
+- title: Bank America Systems Engineering, Pasadena, CA
+- title: NSDD-X.500, Data General Corp.
+- title: Hand Held Products, Inc.
+- title: Intergraph Electronics, Mountain View, CA
+- title: University of Tennessee Division of Continuing Education
+- title: North Coast Public Access *NIX, Cleveland, OH
+- title: Bristol-Myers Squibb
+- title: "SigSauer Fan Club "
+- title: Australian Defence Force Academy, Canberra, Australia
+- title: IBM Kingston NY
+- title: /usr/local/etc/organization
+- title: Interactive Media Group - University of Massachusetts at Lowell
+- title: U.C. Berkeley
+- title: CMP Publications, Inc., Manhasset, NY
+- title: INFERNO
+- title: Canadian Microelectronics Corporation
+- title: Doctoral student, Materials Science and Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: University of Houston Administrative Computing
+- title: Allen-Bradley Company, Inc.
+- title: Control Data
+- title: Intermetrics Inc., Washington Division, USA
+- title: N/I
+- title: cisco
+- title: National Instruments, Austin, TX
+- title: Apple Computer Inc. ESD/OSBU/Cross-Platform Software
+- title: Dept. of Informatics, University of Oslo, Norway
+- title: Storage Technology Corp.
+- title: Help, my server's fallen, and can't get up (MTU)
+- title: Kent State University CS
+- title: /usr/users/kevin/.organization
+- title: Joe's Bar and Grill
+- title: The MITRE Corp. McLean Va.
+- title: The University of Tennessee, Knoxville
+- title: Gotham Communications Research
+- title: Computer Engineering and Science, Case Western Reserve University
+- title: The Group W Bench
+- title: UDel School of Life & Health Sciences
+- title: WDCR/WFRD, Hanover, NH
+- title: Committee to commemorate the WACO Ghetto Uprising
+- title: University of Maryland, Department of Electrical Engineering
+- title: DAFCO OS/2 Software Support & Consulting
+- title: The MITRE Corporation, McLean, VA
+- title: Advanced Micro Devices, Inc.
+- title: The University of Illinois
+- title: Unisys Corporation SLC
+- title: Cray Research Superservers,  Inc.
+- title: NEC America, Radio Software Dept
+- title: University of Southern Mississippi
+- title: Michigan Tech
+- title: VTT
+- title: Dundee Institute of Technology
+- title: Northeastern Law, Class of '93
+- title: Intermetrics Inc.
+- title: GhostBuster Central - Southern NH Usenet Access, Nashua, NH
+- title: Psych Department, Indiana University
+- title: The Zets at the University of Pittsburgh (aka The Pitt)
+- title: The Cat Factory & Mushroom Farm
+- title: Handmade Designs, Salem, OR, USA
+- title: McGill Research Centre for  Intelligent Machines
+- title: Vanderbilt University
+- title: Dept. Of Control, Teknikum, Uppsala
+- title: S.D.P.A. Center for Regional Studies
+- title: ITEX, Jerusalem, Israel
+- title: Univ. Western Ontario, London Ont. CA
+- title: Honeywell Systems & Research Center
+- title: NYSERNet, Inc.
+- title: Nobody but me -- really
+- title: Dept. of Computer Science, Brown University
+- title: Weizmann Institute of Science, Computation Center
+- title: Computer Science Department, University of Rochester
+- title: Computer Graphics Laboratory, UCSF
+- title: Division of Applied Sciences, Harvard University
+- title: Collaborative Information Technology Research Institute
+- title: Brown University Department of Computer Science
+- title: BCR, NJ-USA
+- title: Engineering College, Colorado State University
+- title: Nysernet
+- title: The Department of Redundancy Department
+- title: Central
+- title: Boston University Center for Adaptive Systems
+- title: NTT Corp. Japan
+- title: IMAG, University of Grenoble, France
+- title: NONE
+- title: University of Texas @ Austin
+- title: Lithuanian-Israeli Joint Stock Company OLIZEI
+- title: Silicon Graphics, Inc., Mountain View, CA, USA
+- title: James Capel Pacific Limited, Tokyo Japan
+- title: Labaniyati-ye-Sar-e-Koocheh
+- title: Southern Connecticut State University, New Haven
+- title: NCSU Chem Eng
+- title: C.C.S.O.
+- title: M.I.T. Artificial Intelligence Lab.
+- title: College of Engineering, Michigan State University
+- title: Dept. of Computer and Systems Sciences, Stockholm University
+- title: University of Rochester Department of Electrical Engineering
+- title: USC/Information Sciences Institute
+- title: Electrical and Computer Engineering, University of Toronto
+- title: Elect & Comp Engineering, U of Manitoba, Winnipeg, Manitoba,Canada
+- title: Rochester Institute of Technology, Rochester, NY
+- title: Applied Mathematics, Harvard University
+- title: Inst. of Comp. Sci., Hebrew University, Jerusalem, Israel
+- title: Hewlett-Packard Corporation, Chelmsford, MA
+- title: College of Engineering, Oregon State University
+- title: EMBL, European Molecular Biology Laboratory
+- title: Concordia University, Montreal, Canada
+- title: Specialix Inc.
+- title: school of Mathematics UNSW
+- title: The Private Site of Manfredo Tichauer
+- title: Bullwinkle Fan Club
+- title: DESYDeutsches Elektronen Synchrotron, Experiment ZEUS bei HERA
+- title: Math department, Bar-Ilan University, Ramat-Gan, ISRAEL
+- title: St. Peter's College, US
+- title: Santa Cruz
+- title: D Service Actuarial Consulting
+- title: The Liberty Trust
+- title: Not Aging, Just Improving, Inc.
+- title: ExNet Systems Ltd Public Access News, London, UK
+- title: SGI Developer Docudramas
+- title: Motorola, CCR&D, CORP, Schaumburg, IL
+- title: CalTech, Div. of Biology
+- title: Historical Accuracy, Inc.
+- title: LNK Corporation, Riverdale, MD
+- title: Fannie Mae
+- title: Generally in favor of, but mostly random.
+- title: Our Lady of Heavy Artillery
+- title: Project GNU, Free Software Foundation,
+- title: The Village Waterbed
+- title: Welligton City Council, Public Access.
+- title: Unka Phaed's UUCP Thingy, Houston, TX
+- title: Delaware Technical & Community College
+- title: ACME Products
+- title: GTE Laboratories Incorporated
+- title: Bell-Northern Research, Research Triangle Park, NC
+- title: The Leader Desslok School of Diplomacy
+- title: Kalamazoo College
+- title: Who, me???
+- title: IFS Project, University of Michigan
+- title: US Army Corps of Engineers Construction Engineering Research Labs
+- title: Network Equipment Technologies, Redwood City
+- title: The Armory
+- title: Harris (Government Communications System Division)
+- title: HSH Associates
+- title: General DataComm Ind. Inc., Middlebury, CT 06762
+- title: Gordian; Costa Mesa, CA
+- title: Free the Barbers, Inc.
+- title: TOSHIBA America MRI, South San Francisco, CA
+- title: VisionAire, San Francisco, CA
+- title: River Parishes Programming, Austin TX
+- title: Dept of TAM Cornell Univ. Ithaca, NY
+- title: Northwestern University, Evanston, Illinois
+- title: Welsh Farm
+- title: Gordian Knot, Gloster,GA
+- title: Just a Boomer, Inc.
+- title: GrinchCo
+- title: Failed Libertarian Opportunities, Inc.
+- title: The Ohio State University, Department of Physics
+- title: The Zoo of Ids
+- title: Pendor, UnLtd.
+- title: Castle WetWare Philosopher and Sniper
+- title: Department of Redundancy Department
+- title: Oracle Corporation, Redwood Shores CA
+- title: The Gifted and The Damned
+- title: CS Dept., Univ. of Illinois at Urbana-Champaign
+- title: NASA/JSC
+- title: Thought Police Watchdog Agency, U.S.A.
+- title: Astronomy Department, Boston University, Boston, MA, USA
+- title: EECS Department, Northwestern University
+- title: Harvard Robotics Lab, Harvard University
+- title: Yale University Science & Engineering UNIX(tm), New Haven, CT 06520-2158
+- title: IWR, University of Heidelberg, Germany
+- title: University of Oslo
+- title: Advocates for Self-Government - Davy Crockett Chapter
+- title: College of Arts and Sciences
+- title: Students for Increased Beverage Access (SIBA)
+- title: Novell, Inc
+- title: Dr Zippys psycho surgery
+- title: TRW SEDD
+- title: Tektronix, Inc., Redmond,  OR.
+- title: Lawrence Berkeley Laboratory (Theoretical Physics Group)
+- title: Misc. student, Carnegie Mellon, Pittsburgh, PA
+- title: Intelligent Systems Program
+- title: Starfleet Headquarters San Francisco
+- title: Camtec Electronics (Ericsson), Leicester, England
+- title: Tektronix, Inc., Wilsonville,  OR.
+- title: BNR Europe, New Southgate, London.
+- title: Representing my own views here only.
+- title: UIUC Center for Supercomputing Research and Development
+- title: Laboratory for the Foundations of Computer Science, Edinburgh U
+- title: Univ. of Wisconsin-Madison; Electrical & Computer Engineering
+- title: Kalki's Infoline BBS, Aiken, SC, USA
+- title: MITRE Corporation, McLean VA
+- title: EIT
+- title: InterNetNews at ZDV Uni-Tuebingen
+- title: T.S.A.K.C.
+- title: Longinus Software & Garden ov Delights
+- title: Tweek-Com Systems BBS, Moraga, CA (510) 631-0615
+- title: The Friends of Loki Society
+- title: Home Office in Vienna, Austria
+- title: PU vir CHO/PU for CHE
+- title: Royal Roads Military College, Victoria, B.C.
+- title: MAINTECH, A division of Volt Delta Resources,Inc. Orange, CA.
+- title: Southeast Alabama Society of Warm and Fuzzy Star Worshippers
+- title: Harding University, Searcy, AR
+- title: Idaho River Country, The Salmon, Payette, Clearwater, Boise, Selway, Priest
+- title: Institute for the Study of Ancient Science
+- title: the Polyhedron Group
+- title: n.o.y.b
+- title: Oryx Energy
+- title: DSC Communications Corp, Plano, TX
+- title: Red Barn Data Center
+- title: The Society for the Preservation of Cruelty to Homophobes.
+- title: Honest Bob's Used Toaster Emporium
+- title: Mayo Foundation, Rochester MN. Campus
+- title: Imperial College Parapsychology Group
+- title: Science Applications Int'l, Corp. - Computer systems operation
+- title: N.I.C.E.
+- title: Not important
+- title: University of Idaho
+- title: Writer
+- title: DigiBoard, Incorporated, Eden Prairie,MN
+- title: Florida State University, but I don't speak for them
+- title: The Brewers' Witch BBS, +1 713 272 7350, Brewich.Hou.TX.US
+- title: Software Maintenance & Development Systems, Inc.
+- title: Eastman Kodak Company
+- title: Apothegmatics, Ltd.
+- title: Verdix Corp
+- title: Computing Laboratory, UKC
+- title: Cursed Female
+- title: Augustana College
+- title: "'Operation Mindcrime'"
+- title: "The cat is on the mat "
+- title: NCR Teradata Database Business Unit
+- title: National Optical Astronomy Observatories, Tucson, AZ, USA
+- title: UC Davis Dept of Applied Science at LLNL
+- title: Stanford Univ. Earth Sciences
+- title: New York University, School of Medicine
+- title: Oulu Institute of Technology
+- title: University of New Brunswick, Fredericton, NB, Canada
+- title: Cognos Incorporated, Ottawa CANADA
+- title: European Computer-Industry Research Centre, Munich
+- title: Hewlett-Packard Neely Golden Gate Area (Northern Calif.)
+- title: University of Notre Dame, Notre Dame
+- title: 3D/EYE, Inc.  Ithaca, NY
+- title: Telecom Research Labs, Melbourne, Australia
+- title: U. S. Naval Academy
+- title: S-MOS Systems, Inc. (Vancouver Design Center)
+- title: Electrical and Computer Engineering, University of Pretoria
+- title: Tokyo Institute of Tech., Precision and Intelligence Lab., Japan
+- title: "]bo Akademi University, Finland"
+- title: Project Zed
+- title: Computer Graphics Unit, MCC
+- title: Freshman, Art, Carnegie Mellon, Pittsburgh, PA
+- title: Technion, Israel Inst. of Technology
+- title: Visualization Systems, IBM
+- title: NSK RAN
+- title: TiGrrs_R_Us
+- title: Telefonica I+D
+- title: University College of Northern Victoria (Bendigo)
+- title: Ecole Polytechnique de Montreal
+- title: Dept Computing, UCNV, Bendigo, Australia
+- title: Software Development Lab, UMass, Amherst
+- title: East Texas State University
+- title: University of Koblenz, Germany
+- title: University of Tasmania at Launceston
+- title: Computer Science House @ RIT
+- title: Uni Ulm Physik
+- title: Hogeschool van Amsterdam, The Netherlands, E.E. & C.S. Dept.
+- title: Ericsson Cellular Division
+- title: Medical College of Wisconsin
+- title: Warsaw University Physics Dept.
+- title: AHPCRC, Minnesota Supercomputer Center
+- title: Students network, Computer Science Department, University of Pretoria
+- title: University of Trondheim
+- title: Crosfield, Hemel Hempstead, UK
+- title: Nedriv Software and Shoe Shiners, Uninc.
+- title: EDS Unigraphics, Cypress CA
+- title: School of Math & CS - Tel Aviv University , Tel Aviv , ISRAEL.
+- title: Fire Walk With Me....
+- title: Physiology Dept, University of Missouri
+- title: Faculty of Architecture, University of New South Wales
+- title: RMIT, Bundoora Campus, Victoria, Australia
+- title: Bergen Scientific Centre, Bergen, NORWAY
+- title: TU Darmstadt
+- title: Daresbury Laboratory, UK
+- title: Zentrum fuer Graphische Datenverarbeitung, 6100 Darmstadt, Germany
+- title: Northwestern University, Evanston IL
+- title: UF EE Department
+- title: Westinghouse Electronic Systems Group, Baltimore, MD.
+- title: Jet Propulsion Lab - Mid-Infrared Camera Project
+- title: UCLA Cognitive Science Program
+- title: Wang Labs, Lowell MA, USA
+- title: Home Animation Ltd.
+- title: Channel 1 Communications
+- title: Genesis Public Access Unix +1 508 664 0149
+- title: University of Oldenburg, Germany
+- title: Willamette University, Salem OR
+- title: Her Master's Voice
+- title: University of Stellenbosch, South Africa
+- title: DIALix Services, Sydney, New South Wales, Australia
+- title: Blue Knight Productions
+- title: University of Vienna
+- title: Guest of France-Teaser, (3617 EMAIL)
+- title: Neptune Software Inc -- Orlando, FL
+- title: Jozef Stefan Institute, Ljubljana, Slovenia
+- title: IKE
+- title: Norwegian Defence Research Establishment, Kjeller, Norway.
+- title: NCR (Torrey Pines Development Center)
+- title: Inference Corporation
+- title: Uni Mannheim
+- title: Private Helldiver/Usenet system, Brooklyn, NY, USA
+- title: Philips Laboratories, Briarcliff, New York
+- title: The Santa Fe Institute
+- title: Hahnemann University
+- title: AsA Trading Company (zenon_gate)
+- title: University of Newcastle upon Tyne, UK NE1 7RU
+- title: HP Scientific Instruments Division - Palo Alto, CA
+- title: Middle East Technical University - Computer Center
+- title: Racal-Datacom, Sunrise, FL
+- title: Oregon Grad. Inst. Computer Science and Eng., Beaverton
+- title: C.E.N.A. (Centre d'Etudes de la Navigation Aerienne)
+- title: Intergraph Corp., Reston, VA
+- title: Jet Propulsion Laboratory, Section 331
+- title: Battelle Pacific Northwest Labs, Richland, WA
+- title: NCR Microelectronics, Ft. Collins, CO
+- title: Commodore, West Chester, PA
+- title: UNI-C, Danish Computing Centre for Research and Education
+- title: Population Research Center, UT-Austin
+- title: Subtropical Meteorology Data Bank, Dept. of Atmospheric Sciences,
+- title: Ithaca Software
+- title: State Systems, South Australia
+- title: Sponsored account, Physics, Carnegie Mellon, Pittsburgh, PA
+- title: Telecom Research
+- title: University of Geneva, Switzerland
+- title: IPVR, University of Stuttgart, Germany
+- title: School of EE, Royal Institute of Technology, Sweden
+- title: Tampere University of Technology, Dep. of Computer Science
+- title: Magna Software Corporation
+- title: Hewlett Packard Co / PGIS
+- title: ELLEMTEL Utvecklings AB
+- title: Dun & Bradstreet Software
+- title: Disorganized in Orange County, CA
+- title: Electronics For Imaging, Inc.
+- title: Housing Division
+- title: Sun Microsystems Computer Corp.
+- title: Swarthmore College
+- title: IDC BBS - Alameda, CA - 510-865-7115
+- title: Roadnet Technologies, Inc.
+- title: SINTEF
+- title: Hibbitt, Karlsson & Sorensen, Inc.
+- title: Smith College
+- title: University at Albany, Albany NY 12222
+- title: Kingston University, Kingston-upon-Thames
+- title: Office for Information Management, University of Illinois
+- title: Messina Software
+- title: IBM Boca Raton Visual Subsystems
+- title: Sponsored account, Systems Group 82, Carnegie Mellon, Pittsburgh, PA
+- title: Mathematics Department, Memorial University of Newfoundland
+- title: University of Pennsylvania, Philadelphia, PA, USA
+- title: Comp Sci, Univ Melbourne, AU
+- title: Grebyn Timesharing
+- title: Department of Infomation Science, Faculty of Science, University
+- title: Precambiran Electronics, Rochester, NY
+- title: Drexel University, Dept. of Math. and Comp. Sci.
+- title: Gallagher & Robertson A/S
+- title: IBM Boca Raton
+- title: MausNet (Mitglied im IN e.V.)
+- title: Panorama BBS Development
+- title: Private Site
+- title: Bates College, Lewiston, Maine
+- title: Uni of Newcastle, Australia
+- title: Comtech Labs Inc, Palo Alto
+- title: cellular
+- title: Lulea University Computer Society - Ludd
+- title: FedUNIX - Open Systems Conference Board - Washington D.C.
+- title: C.d.C-Politecnico di Milano
+- title: Rensselaer Polytechnic Institute Computer Science, Troy NY
+- title: Southwestern Bell Technology Resources
+- title: Earth Observations Lab
+- title: Tower Concepts
+- title: Department of Chemistry, Michigan State University
+- title: JHU/APL
+- title: E&S
+- title: UTRC
+- title: Software Technology, Intel Corp, Santa Clara, CA
+- title: Martin Marietta Orlando
+- title: University of Saskatchewan, Saskatoon, Canada
+- title: Communication Systems, Lund Institute of Technology, Sweden
+- title: Energy, Mines, and Resources, Ottawa
+- title: Mikrosys AS
+- title: Laboratory of Image Analysis, University of Aalborg
+- title: -S-LINK-> Public Mailbox, Braunschweig, Germany
+- title: The University of Leeds, School of Computer Studies
+- title: "University of Regina, Regina, Sask., Canada "
+- title: APANA, Melbourne.
+- title: Kralizec Dialup Unix Sydney +61-2-837-1183 V.32bis
+- title: Computer Power Software Group Pty Ltd
+- title: CSS, Simon Fraser University, Burnaby, B.C., Canada
+- title: Ecole Superieure d'Electricite, Etablissement de Metz, France.
+- title: University of Neuchatel, Switzerland
+- title: EuroKom Conferencing Service
+- title: Dr. Herzl's New Zion Club
+- title: WU-Wien
+- title: Olivetti Research Ltd, Cambridge, England.
+- title: Department of Mathematics and Computer Science, University of Leiden
+- title: The MacNeal-Schwendler Corporation
+- title: Lysator ACS at Linkoping University
+- title: PenPM Development, PSP, IBM Boca Raton
+- title: Boise State University
+- title: Dept Computer Science, University of Manchester, U.K.
+- title: The Voice of Fate
+- title: Confuse-A-Cat, Ltd.
+- title: University of New South Wales, Kensington, Australia
+- title: Radiation Laboratory U of Notre Dame
+- title: Hughes Aircraft Co., Carlsbad, CA
+- title: Molekulare Genetik, Universitaet Heidelberg, Germany
+- title: Motorola Codex, Canada
+- title: Cal Poly, San Luis Obispo
+- title: University of Oregon Computer and Information Sciences Dept.
+- title: Acorn Computers Ltd, Cambridge, England
+- title: Philips Research
+- title: GTE FSD
+- title: Equinox Networks
+- title: TUSC Computer Systems Pty Ltd.
+- title: Intergraph Corportation
+- title: University of Salzburg / Austria
+- title: Canisius College, Buffalo NY. 14208
+- title: Sheridan College, Ontario, Canada
+- title: Andrews University
+- title: Jupiter Technology Inc. / Waltham, MA
+- title: University of B.C. Geophysics & Astronomy
+- title: Universita' di Padova, Italia
+- title: NIST
+- title: Penn State Ghoul-Labs
+- title: Weyrich Computer Consulting
+- title: Software Productivity Consortium
+- title: Motorola MOS Telecom
+- title: New Technologies Group
+- title: MDSSC-SSD
+- title: ASHTRAY(Against Short Hair That Really Annoys You)
+- title: School of Physics, University of Melbourne
+- title: Texas Instruments Component Test Facility
+- title: Terminal Velocity Kingston
+- title: Yeshiva University
+- title: Aeronautical Radio, Inc., Annapolis
+- title: Intelligent Software Products, Inc.
+- title: Consultant's Connection
+- title: CSIRO Division of Entomology, Canberra, Australia
+- title: The SIMTEL20 Archives
+- title: University of Fribourg - CH
+- title: Domestic Vorpal Bunny Breeder's Association
+- title: =>ESKIMO NORTH (206) 367-3837 SEATTLE, WA.<=
+- title: Reg. Computing Center, University of Cologne
+- title: Universitaet Passau, Germany
+- title: Physical Chemistry Laboratory, South Parks Road, Oxford OX1 3QZ
+- title: Universitair Centrum Informatievoorziening
+- title: The Dorsai Embassy
+- title: TI-DSEG Spring Creek
+- title: SalesBook Systems
+- title: The Dawghaus BBS, Palmerston North, New Zealand (+64 6 357 9245)
+- title: Tegra-Varityper, Inc. Billerica, MA
+- title: Mississippi State Univ., CS Dept.
+- title: University of Wisconsin, Madison
+- title: FTP Software, Inc., North Andover, Massachusetts
+- title: UW Computing
+- title: "Boeing "
+- title: Sun Microsystems Computer Corp., Mountain View, CA
+- title: York University, Dept. of Computer Science
+- title: Division of the month club
+- title: DEC Network Systems Lab
+- title: U.S. Army Topographic Engineering Center, Ft. Belvoir, VA.
+- title: Two Ravens BBS
+- title: NCR E&M Dundee
+- title: The Land of The Darkside BBS * (519)/888-9869
+- title: Compaq Computer Corp.
+- title: Freshman, Math/Computer Science, Carnegie Mellon, Pittsburgh, PA
+- title: Crynwr Software
+- title: Monash University Gippsland Campus, Victoria, AUSTRALIA.
+- title: University of Tampere, Finland
+- title: Micro Resources
+- title: Computing Centre, Heinrich-Heine-University, Duesseldorf, Germany
+- title: Philips Consumer Electronics, Eindhoven, The Netherlands
+- title: Harris
+- title: INMOS IQ Systems Group, Bristol, UK
+- title: General Motors Corp.
+- title: R.I.T.
+- title: The MITRE Corporation, Bedford, MA
+- title: PU vir CHO
+- title: Chevron, La Habra, CA.
+- title: Computing Services, UC Davis
+- title: Skanska Data
+- title: MCNC Center for Communications -- CONCERT Network
+- title: Private Waffle Site
+- title: U S WEST NewVector Group, Inc.
+- title: Center for Environmental and Regulatory Information Systems, Purdue University
+- title: Oberon Software, Inc.
+- title: Trenton State College
+- title: Institute for Space Research, Boston College
+- title: Tektronix TV Measurement Systems, Beaverton, OR
+- title: NASA/GSFC/HSTX, Greenbelt, MD
+- title: Florida State University Computing Center
+- title: Defense Logistics Service Center, Battle Creek, MI
+- title: Victoria University of Technology
+- title: K.U.Leuven - Academic Computing Center
+- title: Queens University
+- title: The Clipboard, fidonet 3800/861
+- title: Disaster, Inc.
+- title: Univ. Texas M.D. Anderson Cancer Center
+- title: Canty Agriculture & Science Centre
+- title: IRCAM
+- title: Dept. of NMR Research, Yale School of Medicine
+- title: University of Pennsylvania, Mechanical Engineering
+- title: TRW, Inc
+- title: Univ. of Wisconsin Dept. of Mathematics
+- title: tfsquad public access usenet, St Paul MN (+1 612 291 2632)
+- title: RLRCLC
+- title: Department of Mathematics, NJIT
+- title: U.Va. Division of Recoverable and Disposable Resources
+- title: nasa-jsc
+- title: KBS Lab, Comp Sci Dept, Mich State University
+- title: FidoNet node 12240/174 - Association Mac BBS, Grand Blanc MI
+- title: Praxis, Bath, U.K.
+- title: Tektronix
+- title: Senior, Social & Decision Sciences, Carnegie Mellon, Pittsburgh, PA
+- title: Dept of Comp Sci, Michigan State University
+- title: NASA/GSFC
+- title: uswest advanced technologies
+- title: Medical Faculty, Adelaide University
+- title: Heurikon Corporation, Madison, WI
+- title: Irvine Compiler Corp., Irvine, California, USA
+- title: MacInteresteds, Nashville's Macintosh User Group
+- title: University of Melbourne
+- title: As little as possible
+- title: EDC
+- title: Information & Mediascience, University of Aarhus, Denmark
+- title: Universidad de Chile
+- title: USDA/ARS & Agronomy/UIUC
+- title: FAA / Mike Monroney Aeronautical Center
+- title: Model Based Vision Lab, Wright Laboratory
+- title: Brussels Free Universities (VUB/ULB), Belgium
+- title: NPRI, Alexandria VA
+- title: Industrial & Power Systems
+- title: Lockheed Austin Division, 6800 Burleson Rd, Austin, TX 78744
+- title: Junior, IM - MCS/CIT Track, Carnegie Mellon, Pittsburgh, PA
+- title: UC Berkeley School of Education
+- title: Communicator Nexus AB
+- title: LTX Corporation
+- title: Department of Applied Electronics
+- title: Senior, Chemistry, Carnegie Mellon, Pittsburgh, PA
+- title: Grumman Corporation
+- title: GRUMMAN DATA SYSTEMS
+- title: Mayo Foundation
+- title: DESY
+- title: University of California Los Angeles
+- title: Meiko Scientific Inc., Waltham, MA
+- title: UCLA Mathematics, PIC Division
+- title: Univ. of Central Florida
+- title: Research Institute for Electrical Communication,Tohoku uniersity
+- title: Wittenberg University
+- title: Florida State University ACNS
+- title: Deakin University, Geelong, Australia
+- title: Pennsylvania State Univ., Dept. of Mechanical Engineering
+- title: ONTARIO HYDRO, Toronto,CANADA
+- title: Famu/Fsu College of Engineering
+- title: Harvard Arts and Sciences Computer Services, Cambridge, MA
+- title: Cerritos College, Norwalk CA
+- title: Dept. Computer Science, University of Western Australia.
+- title: Victoria University Of Technology, Melbourne, Australia
+- title: Hughes Aircraft Company
+- title: Defence Science and Technology Organisation, Salisbury, South Australia
+- title: Nimbus Technology Inc. (formerly C2 Technology)
+- title: University of Auckland
+- title: ILOG S.A., Gentilly, France
+- title: Computer Science Department, Texas A&M University
+- title: International Institute for Applied Systems Analysis
+- title: University Computing Services, UBC, Canada
+- title: Independent JPEG Group
+- title: DFKI Kaiserslautern
+- title: Harvard University, Cambridge, Ma
+- title: U.W. Information Systems
+- title: Honeywell Industrial Automation, Phoenix, AZ
+- title: LRS, University of Erlangen, Germany
+- title: G.R.O.S.S.
+- title: Competence Center Informatik GmbH, Meppen, Germany
+- title: Open Networks, Inc., Reston, VA
+- title: SIMULOG, France
+- title: F31
+- title: Technical University of Nova Scotia
+- title: Dept. of Civil Engineering, University of California, Berkeley
+- title: la Bambini de Karma
+- title: Human Communication Research Center
+- title: Chaos Unlimited
+- title: System Constructs, Inc
+- title: CCI europe, Research and Development
+- title: Kings College London Image Processing Group
+- title: CIRES, University of Colorado
+- title: Universitaet Bielefeld
+- title: Telecom Paris (ENST), France
+- title: Hughes Network Systems, Inc.
+- title: Commissariat a l'Energie Atomique - France
+- title: LNEW -- Robins AFB
+- title: IEF Development, Texas Instruments Inc., Plano Texas
+- title: XeniTec Consulting Services, Kitchener, ON, CANADA
+- title: Intellection, Inc.
+- title: Man Machine Systems Technology
+- title: UK/Canada/Netherlands Joint Astronomy Centre, Hilo, Hawaii
+- title: Computing Laboratory, U of Newcastle upon Tyne, UK NE17RU
+- title: Island Software
+- title: Teknekron Communications, Inc
+- title: SEE Technologies Ltd.
+- title: Ecole Polytechnique, Institut de Genie Biomedical
+- title: Nippon Motorola Ltd., Tokyo, Japan
+- title: Martin Marietta
+- title: X-Act Solutions Limited
+- title: Southern Illinois University - Carbondale, IL (SIU-C)
+- title: IPI, University of Hannover
+- title: GEC Plessey Semiconductors
+- title: Uni-GH Paderborn, Germany
+- title: Universita' di Perugia
+- title: German National Research Center for Information Technology (GMD)
+- title: Night Vision Labs, Ft Belvoir, VA
+- title: GE Aerospace - VF
+- title: INRIA Rocquencourt
+- title: /s/bach/b/under/schwarte/.organization
+- title: Lake Taylor Hospital Computer Services
+- title: Quotron Systems, Inc.
+- title: Dept. of Physics and Astronomy, Univ. North. Carolina at Chapel Hill
+- title: Plymouth State College
+- title: SIAP Sistemi S.p.A.
+- title: NCR Corporation - E&M Columbia
+- title: Chemical Abstracts Service
+- title: Tufts University Department of Computer Science
+- title: NOS
+- title: Personal Library Software Inc., Rockville MD
+- title: Crin-Inria-Lorraine
+- title: Comdisco Systems Inc.
+- title: MITRE Corp. McLean Va.
+- title: Vienna University Computer Center, Austria
+- title: Unisys Open Systems Group, San Jose
+- title: Climate and Global Dynamics/NCAR, Boulder CO
+- title: James Madison University
+- title: PCS Computer Systeme GmbH
+- title: College of Computing, Georgia Tech
+- title: Siemens Nixdorf Information Systems Ltd.
+- title: Bose Corporation
+- title: PSGnet, Portland Oregon, US
+- title: University of Florida Parallel Reasearch Lab.
+- title: TommyVision Corporation, Washington, DC USA
+- title: University of Minnesota - Morris
+- title: Griffith University.
+- title: Dept. of Atmospheric Sciences, University of Washington
+- title: Xerox Corporation
+- title: Center for Computer Music Research and Composition, U.C.S.B.
+- title: NEC Research Institute
+- title: Faultline Software Group, Inc
+- title: Loral Instrumentation
+- title: Florida State University Department of Mathematics
+- title: The Dept. of Computer Science and Information Engineering of NTU
+- title: Akademia Pana Kleksa, Public Access Uni* Site
+- title: The University of Texas System - CHPC
+- title: Bain & Company
+- title: Cal State University, Los Angeles
+- title: University College, Cork
+- title: Prospect 5082, AUSTRALIA
+- title: Sobeco Ernst & Young
+- title: High Altitude Observatory/NCAR, Boulder CO
+- title: Information Resources Inc.
+- title: Universidad de Chile, Depto. de Ciencias de la Computacion
+- title: Computer Science Dept, City University, London
+- title: NASA
+- title: TECHNION - Izrael Institute of Technology
+- title: CASD Lab.
+- title: Engineering Network Services, Colorado State University
+- title: IIASA, Laxenburg, Austria
+- title: Software Transformation, Inc.
+- title: Emory University, Dept of Math and CS
+- title: Duke University CS Dept., Durham, NC
+- title: c/o VISUAL, Inc.
+- title: Boeing Computer Services, Seattle, WA
+- title: Inst. f. Informatik, TU Braunschweig, FRG
+- title: Digital Equipment Enterprise B.V.,Apeldoorn,The Netherlands.
+- title: Infologics, Linkoping, Sweden
+- title: Quay Financial Software
+- title: Bristol Technology Inc.
+- title: D and D Data, Vienna VA
+- title: Haverford College Computer Science Department
+- title: University of Florida, Gainesville
+- title: SAIC Reston, VA
+- title: Weber State University
+- title: Sterling Software
+- title: Abekas Video Systems Inc., Redwood City, California.
+- title: the University of Chicago
+- title: The Institute for the Learning Sciences
+- title: Recognition International, Inc.
+- title: JvNCnet
+- title: Olivetti Research California
+- title: AT&T Bell Labs, Naperville, IL USA
+- title: FiberCom, Inc., Roanoke, Virginia
+- title: Wilson Lab, Cornell U., Ithaca, NY, 14853
+- title: Russian Tools Co, Ltd.
+- title: Research Libraries Group, Inc.
+- title: SPECTROX SYSTEMS (408)252-1005 Cupertino, Ca
+- title: Columbia Graduate School of Business, CU
+- title: who, me?
+- title: completely without
+- title: Smiths Industries
+- title: Personal UUCP System
+- title: Moondog Software, Sunnyvale, CA.
+- title: Brown University
+- title: Salt Lick, UT
+- title: Rowan College of NJ, Glassboro, NJ 08028
+- title: Senior, Math/Computer Science, Carnegie Mellon, Pittsburgh, PA
+- title: Computer Engineering Group, Georgia Tech, Atlanta, GA 30332-0250
+- title: U. Mass. at Lowell
+- title: Art's House
+- title: loral western development labs
+- title: University of Maine Department of Computer Science
+- title: Graduate School of Industrial Administr., Carnegie Mellon, Pittsburgh, PA
+- title: olesov
+- title: Masters student, Materials Science and Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: Oregon State University Math Department
+- title: College of Computing, Georgia Institute of Technology
+- title: cluttered-but-in-order
+- title: First National Bank Of Chicago, Chicago IL, USA
+- title: Ed Hopper's BBS - Berkeley Lake, GA - 404-446-9462
+- title: Me, Myself, and I
+- title: Noitazinagro
+- title: Presbyterian College, Clinton SC, USA
+- title: Storage Concepts, Inc.
+- title: UNLV Computer Science and Electrical Engineering
+- title: University of Michigan EECS Dept., Ann Arbor
+- title: Sequent Computer Systems Inc.
+- title: SUNY at Stony Brook
+- title: EEAP, CWRU, Cleveland
+- title: Drexel University, Philadelphia
+- title: University of Central Florida - Physics
+- title: NEMESIS  Usenet Gateway Denver, Colorado
+- title: Comm-Link BBS  (216) 691-9209  Cleveland, Ohio
+- title: GTE Laboratories, Waltham, MA
+- title: Department of Computer Science, Michigan State University
+- title: "A.S.I. "
+- title: ST. CLOUD STATE UNIVERSITY, ST. CLOUD, MN
+- title: skulls 'r us
+- title: Freshman, Biology, Carnegie Mellon, Pittsburgh, PA
+- title: BEST Lab, UC Berkeley
+- title: Encore Computer Corporation, Ft. Lauderdale, FL
+- title: Net Access BBS & Network
+- title: IBM Rochester Mn
+- title: Gauges R Us
+- title: nCUBE Computers, Beaverton, Oregon, U.S.A.
+- title: Viewlogic Systems, Inc.
+- title: IBM Almaden Research Center
+- title: MHHC
+- title: NYNEX Science & Technology, Inc.
+- title: SPC Community Access System
+- title: the HP Mtn.View Resp. Cntr.
+- title: NASA Ames Res. Ctr. Mtn Vw CA 94035
+- title: SunSoft, A Sun Microsystems Company
+- title: Stanford University School of Medicine
+- title: Social Science Computing, Univ. of Penn.
+- title: Miners for a Heart of Gold
+- title: U. C. Berkeley Open Computing Facility
+- title: The Loyal Taxpayers
+- title: HP Information Networks, Cupertino, CA
+- title: Department of Redundancy Dept.
+- title: United Technologies Research Center
+- title: Psychology, Carnegie Mellon, Pittsburgh, PA
+- title: Georgia Tech Research Institute
+- title: FAW (Research Institute For Applied Knowledge Processing)
+- title: Junior, Architecture, Carnegie Mellon, Pittsburgh, PA
+- title: Observatory Software
+- title: GSTRF
+- title: Second Source, Inc., Annapolis, MD
+- title: Dynamic Data & Electronics
+- title: Image Analysis Systems Group, JPL
+- title: Paramax Systems, Ivyland, PA
+- title: Major semiconductor company
+- title: IBM SNA Networking Development
+- title: Cashier's Office, Carnegie Mellon, Pittsburgh, PA
+- title: Image Computing Systems Lab, University of Washington
+- title: Fermilab
+- title: The ASK Group
+- title: Dis claim is mine
+- title: Microplex Systems Ltd.
+- title: Sverdrup Technologies
+- title: Recom Technologies, Code FLM, NASA Ames, Moffett Field, CA
+- title: Motorola, Inc., Schaumburg, IL, USA
+- title: California State University, Lost Angels
+- title: University of Pittsburgh Medical Center, WPIC
+- title: Sun Microsystems Inc.
+- title: Texas SplatterFest
+- title: Public-Access-Unix-System
+- title: Helsinki School of Economics and Business Administration, Finland
+- title: Texas Instruments Information Technology Group
+- title: Searle, Skokie, IL
+- title: Image Analysis Center, Univ. Hospitals of Cleveland
+- title: PLEXUS Software, a division of REI
+- title: Univ of Texas at San Antonio
+- title: Array Microsystems, Colorado Springs, CO. USA
+- title: Ntl Center for Atmospheric Research, Atmospheric Chemistry
+- title: Dances with Hawks
+- title: Naval Medical Research & Development Command
+- title: Temporary Employment Service, Carnegie Mellon, Pittsburgh, PA
+- title: Fluent Inc., Lebanon NH
+- title: Float Bowl Chinese Food & Carburetors
+- title: Rice University, Biochemistry
+- title: Cleveland State University
+- title: Unipalm Ltd., 216 Cambridge Science Park, Cambridge CB4 4WA, UK
+- title: Bergen College of Engineering, Bergen, Norway
+- title: TAF Dept. Fundesco. Madrid.
+- title: Network Equipment Technologies
+- title: Oregon State System of Higher Education
+- title: Georgia Tech College of Computing
+- title: Strathclyde University VAX Cluster
+- title: Minnesota State University System
+- title: Tektronix, Inc., Wilsonville, OR
+- title: Chef Dave Koresh's BBQ Pits, Inc. (A subsidiary of LundyCo)
+- title: CLaM Associates, Cambridge, MA 02141
+- title: Informix Software
+- title: Paramax Systems Corporation, Paoli PA
+- title: CS Dept, Oregon State University
+- title: University of Victoria, Victoria, B.C. CANADA
+- title: /home/NEARnet/ejb/.organization
+- title: University of Toronto Physics/Astronomy/CITA
+- title: The Cleveland Clinic Foundation
+- title: Glazier, Texas Urban Renewal Task Force
+- title: NTT Network Information Systems Labs. Musashino, Tokyo
+- title: Health and Welfare, Canada
+- title: Pitchers Who Can't Throw Strikes, Limited. (Wakefield Division)
+- title: Galaxy Information System (GIS) Atlanta, Ga
+- title: Hi, I'm Matt, and I'm a...a...Boston Red Sox fan
+- title: Thomas Jefferson University
+- title: Cray Research Inc
+- title: Happy Mangum Rattlesnake Festival!
+- title: Buena Vista College, Storm Lake, IA
+- title: NSWCDD
+- title: AT&T Bell Laboratories - Holmdel, NJ
+- title: Johns Hopkins University, Baltimore, Md, USA
+- title: Naval Research Lab, Washington, DC
+- title: Who Knows
+- title: Long Suffering Mariners Fans, Inc.
+- title: Caltech Undergraduate Computer Science
+- title: SMCAR-FSM-W
+- title: Guys with Shaved Heads, Inc. (Puckett Division)
+- title: University of Dayton Computer Science Dept., Dayton, OH
+- title: National Cheng Kung University
+- title: MPR Teltech Ltd
+- title: Penn State Laboratory for Elementary Steam Physics
+- title: Chevron, La Habra, CA
+- title: Rechenzentrum der Universitaet Freiburg, Germany
+- title: Computing & Information Science, Queen's University at Kingston
+- title: Senior, Physics, Carnegie Mellon, Pittsburgh, PA
+- title: Oral Biology, Univ. of Manitoba
+- title: External Relations, Lakehead University
+- title: Freshman, IM - H&SS Track, Carnegie Mellon, Pittsburgh, PA
+- title: V. I. Corporation, Northampton, Massachusetts
+- title: State University of New York at Buffalo / CEDAR Research Group
+- title: Personal Opinions Inc.
+- title: Hamilton College - Clinton, NY
+- title: Marine Studies, University of Delaware
+- title: Bowling Green State University
+- title: "Edmonton Remote Systems #1, Edmonton, AB, Canada"
+- title: SCO Canada, Inc.
+- title: The heart of the Black Swamp
+- title: National Severe Storms Laboratory
+- title: Night People
+- title: Electronic Data Systems
+- title: nil
+- title: Purdue University Department of Computer Sciences
+- title: Technology Resources
+- title: MacNeal-Schwendler Corporation
+- title: The Pi Club at Johns Hopkins University, Baltimore, Md, USA
+- title: Holland College - Charlottetown PEI
+- title: Junior, Materials Science and Engineering, Carnegie Mellon, Pittsburgh, PA
+- title: Chemical Abstracts Service, Columbus, Ohio
+- title: Dept of Computing, Imperial College, England
+- title: Institute For Theoretical Physics
+- title: Hampshire College, Amherst, MA
+- title: Xetron Corporation, Cincinnati Ohio
+- title: Nynex Science and Technology
+- title: Twisted Pair Consulting, Boston, MA.
+- title: /home/math/calkin/.organization
+- title: "Loral Rolm Computer Systems  "
+- title: Investment Management Services, Inc.
+- title: UW Genetix
+- title: the best minds of a generation, destroyed by madness
+- title: Not Bloody Likely!
+- title: Milwaukee Internet Xchange BBS  Milwaukee, WI
+- title: IBM Cryptographic Facility Development
+- title: Department of Physics, Eindhoven University of Technology.
+- title: University of Kentucky Engineering Computing Center
+- title: University of Massachusetts Dartmouth
+- title: Amdahl Advanced Systems
+- title: Extropy Institute
+- title: Silicon Graphics Inc.
+- title: RSA Data Security, Inc.
+- title: Accuracy, Ltd.
+- title: National Institutes of Health
+- title: Techn. Univ. Clausthal
+- title: /usr/users/user3/anovak/.organization
+- title: The World
+- title: University of Hawaii, Dept. of Physics & Astronomy
+- title: Eloka Consultancy & Project Management
+- title: Sun Microsystems Computer Corporation, Mtn. View, California
+- title: a unix box, where else?
+- title: Electronic Birdwatching Society
+- title: C.A.T. Kommunikations-System
+- title: SONY Advanced Video Technology Center San Jose, CA USA
+- title: Ford Motor Co., Powertrain Electronics
+- title: SOFNET
+- title: Cray Computer Corporation
+- title: Emory University Information Technology Division
+- title: CAT-TALK Conferencing System
+- title: Synercom Technology, Inc., Houston, TX
+- title: Lincoln House Productions
+- title: Washington University, School of Engineering, St. Louis MO
+- title: Guest of Stephen Dyer Consulting
+- title: Fairgate Technologies
+- title: Telos Corp., Jet Propulsion Laboratory (NASA)
+- title: Boeing Defense & Space Group
+- title: Ecole Normale Superieure, PARIS, France
+- title: Australian Computing and Communications Institute
+- title: " Dave McMahan @ NetCom Services "
+- title: Hewlett-Packard Laboratories, Bristol, UK.
+- title: Canada Centre for Inland Waters
+- title: Oberlin College Computer Science
+- title: I.T. Computing Service University of Dundee Scotland, UK
+- title: Netsys Inc.
+- title: Victoria University of Wellington
+- title: Department of Law - Coventry University, Coventry, UK.
+- title: Dept. of Physics, University of Virginia
+- title: Oregon State University
+- title: SUNY at Stony Brook Computer Science Dept.
+- title: Electrical Engr. Dept, Wichita State Univ.
+- title: Eindhoven University of Technology
+- title: Babillard Synapse Inc. - (819) 246-2344
+- title: Advanced Computer Research Institute
+- title: KTH, Royal Institute of Technology, School of Electrical Engineering
+- title: Amiga Network Information Systems
+- title: Harris Semiconductor, Melbourne FL
+- title: Solaria Public Access UNIX - Milwaukee, WI
+- title: UC Irvine College of Medicine
+- title: R.W. Withrow Associates
+- title: SmartNet Trunked Systems
+- title: Chalmers University of Technology, Gothenburg, Sweden
+- title: /homes/majors/stonea/.organization
+- title: Datalog Consulting, Tucson, AZ
+- title: Minimax Research Corp.
+- title: Cypher Technologies
+- title: Cold Spring Harbor Lab
+- title: Ohio University CS Dept,. Athens
+- title: Univ. of South Florida, College of Engineering
+- title: Florida Institute of Technology, Melbourne, FL USA
+- title: Clarkson University, Potsdam NY
+- title: Stephan's Unox Bastelladen
+- title: University of Regina, SK, Canada
+- title: Walla Walla College, College Place, WA
+- title: D.E.I. Universita' di Padova -- Italia
+- title: Wits Electrical Engineering (Undergrads).
+- title: G8KMH's home for stray RF signals
+- title: Ohio Northern University
+- title: Colorado Concert Sound
+- title: Center for Supercomputing R&D
+- title: Interesting place
+- title: (this space for rent)
+- title: National Centre for Software Technology, Bombay
+- title: Comp Sci, RMIT, Melbourne, Australia
+- title: Dept of Electrical & Electronic Engineering, University of Melbourne
+- title: Northeastern University, Boston, MA
+- title: Macedonia 3,000 years of Greek Heritage
+- title: HNSX SuperComputers, Mtl, PQ
+- title: Megadata P/L, North Ryde, Sydney, Aust.
+- title: "'Vilse i Pannkakan'-survivors Anonymous"
+- title: Alcatel Austria Research Centre
+- title: University of Wisconsin - Superior, Wisconsin
+- title: Bell-Northern Research, Ontario, Canada
+- title: Morristown Research and Engineering
+- title: University of Central Florida Bunch o' Consultants
+- title: F M Systems Medina, Ohio USA
+- title: American Radio Relay League
+- title: Z Consulting Group
+- title: Carnegie Mellon Computer Club
+- title: Computer Science Department, University of Rhode Island
+- title: NetManage, Inc.
+- title: Massachusetts General Hospital - Lab of Computer Science
+- title: The Executive Network Information System
+- title: Florida State University - School of Higher Thought
+- title: Humanity
+- title: University of Brighton, UK
+- title: The MITRE Corporation, McLean, Va
+- title: TI DSEG, Spring Creek, Plano, Tx.
+- title: Lamar University - Beaumont
+- title: Klinik Foo
+- title: National Institute of Materials and Chem. Res., MITI, tsukuba
+- title: Scientific Industrial Pedagogical Centre INTEGRAL
+- title: IBM Korea
+- title: The Graphics BBS (2D,3D,GIF,Animation) +1 908/469-0049
+- title: Kharkov - Novosty, host AZBUKA
+- title: Maths Institute, Warwick University, UK.
+- title: Concurrent Computer Corp., Tinton Falls, NJ
+- title: Cray Research Superservers Inc., San Diego CA, USA
+- title: FB Physik, Universitaet Kaiserslautern, Germany
+- title: very little
+- title: LSI Logic Corporation
+- title: Medical College of Wisconsin  (Milwaukee, WI)
+- title: Dipartimento di Informatica, Universita' di Pisa
+- title: The Avant-Garde of the Now, Ltd.
+- title: Pixar -- Point Richmond, California
+- title: SRI International
+- title: Racal-Datacom
+- title: University Advancement, University of Calif., Irvine
+- title: Electrical Eng. Dept. - New Mexico Tech
+- title: AOTC Limited
+- title: University of Umea, Sweden
+- title: PBSPublic Broadcasting Service, Alexandria, VA
+- title: Universitaetsrechenzentrum, Heinrich-Heine-Universitaet Duesseldorf
+- title: Imperial College Computer Centre
+- title: Demon
+- title: Mathematical Sciences Institute (MSI)-Cornell University
+- title: Federal Express Corp.
+- title: Motorola RISC Division
+- title: Gagntaekni/Bijective Tech.
+- title: ScotSoft Research
+- title: MuGS Research and Development Facility
+- title: The University of Kentucky
+- title: Private household, Christchurch, New Zealand
+- title: University Computing Services - Oregon State University
+- title: Private UUCP site
+- title: University of Western Sydney, Hawkesbury
+- title: Georgia Institute of Technology, College of Computing
+- title: sdf public access Unix - Dallas, TX - 214/436-3281
+- title: MultiVac23, Newark, DE, U.S.A.
+- title: Supercomputer Systems Division (SSD), Intel
+- title: SUNY Oswego
+- title: MIT Center for Space Research
+- title: Lockheed Missiles & Spaces Co.
+- title: University of Prince Edward Island
+- title: ComPart BBS, Helsinki-Finland, +358 0 506 3329 (20 lines V.32bis)
+- title: BNR Europe Ltd, London Rd, Harlow, Essex, CM19 9NA, U.K.
+- title: Department of Astronomy, Cornell University
+- title: The University of Iowa
+- title: Inst. f. Neuroinformatik, Ruhr-Universitaet Bochum, FRG
+- title: Lockheed ESC/NASA JSC
+- title: Department of Chemistry, University of Michigan, Ann Arbor
+- title: U. of Washington
+- title: INTERBUSINESS Ltd
+- title: The Dark Side of the Moon +1 408 245 SPAM
+- title: EDS SCICON, GDS Solutions, Cambridge, UK
+- title: University of Rochester Computer Science Dept
+- title: Rush-Presbyterian-St. Luke's Medical Center
+- title: Aeronautical Engineering, University of Sydney
+- title: Aeronautical Engineering, Sydney University
+- title: University of Florida.
+- title: Systems Support Center, BCM
+- title: NASA-Ames Research Center
+- title: M.Sc, C.S, Queen's, Kingston, Canada.
+- title: Design Systems Division, Evans & Sutherland, SLC, UT
+- title: LMSC, Sunnyvale, California
+- title: Alcatel Bell Telephone
+- title: Express Access Online Communications Service, Greenbelt, Maryland USA
+- title: Astronomy / Indiana University / Home of RoboScope
+- title: University of BC, Electrical Engineering
+- title: CICB, Universite' de Rennes I, FR
+- title: BOECOM System Tools
+- title: Not if I can help it
+- title: Computer Arts, Portland Oregon, USA
+- title: Australian Defence Industries
+- title: None at all
+- title: Thomas A. Baker, UNLIMITED
+- title: animal -- coelomate -- deuterostome
+- title: HKS, Inc.
+- title: UC Davis
+- title: Wellesley College
+- title: Rocky Mountain NeXT Users' Group
+- title: Nat'l Inst of Health
+- title: Academic Computing
+- title: Institute For Nonlinear Science, UCSD
+- title: colorado.edu
+- title: News Service at Rose-Hulman
+- title: Representing my own views here.
+- title: University of Michigan Hospitals
+- title: Lawrence Berkeley Laboratory
+- title: Representing my own views here
+- title: University Of Technology,Sydney
+- title: /u/dhammers/.organization
+- title: University of Tennessee, Department of Conferences
+- title: Representing my own views here only
+- title: Silicon Graphics, St. Louis, MO
+- title: Univ. Nevada, Las Vegas Grad Student, Don Miller
+- title: Representing my own views and not that of my company here.
+- title: Nordland College
+- title: Tulane University, New Orleans, LA
+- title: University Of Natal (Durban)
+- title: University of Florida's College of Liberal Arts and Sciences
+- title: Intel Corporation, Beaverton, OR
+- title: University of Rochester Biostatistics.
+- title: Health Sciences Center, University of Oklahoma
+- title: Computer Science, University of Melbourne, Australia
+- title: Tansin A. Darcos & Company, Silver Spring, MD USA
+- title: The Westrheim Group (TWG)
+- title: These are my opinions.
+- title: unus orbis orans
+- title: Computer Science, University College, UNSW/ADFA, Canberra, Australia
+- title: Environmental Research Institute of Michigan, Ann Arbor, Michigan
+- title: Society of Independent Newswaifs
+- title: Rodger B. Zeisler, Plano, Tx USA
+- title: Electrical & Electronic Eng., University of Adelaide
+- title: University of Missouri-Columbia Campus Computing, 314-882-2000
+- title: Well, a head on top, an arm on each side, two legs....
+- title: Trinity College, Hartford, CT.
+- title: Digital Equipment Corporation  A is NOT A Engineering
+- title: AT&T, Bell Labs
+- title: DP&W, New York, NY
+- title: AT&T Bell Labs, Naperville
+- title: Swansea University College
+- title: Georgia Tech Res. Inst./Modeling & Analysis Lab
+- title: CSU
+- title: Southeastern Louisiana University
+- title: Guns for Peace
+- title: New Mexico State University, MetaPhysical Science Laboratory
+- title: Capitalist Warmongers, Inc.
+- title: Intel Corporation -- Aloha, Oregon
+- title: Twilight Zone
+- title: National Cheng-Kung University <cc-guest.1.734602764@cc309.ncku.edu.tw>
+- title: TECHNION - Israel Institute of Technology.
+- title: Digital Equipment Corporation, Atlanta Customer Support Center
+- title: SNRC, University of Wollongong
+- title: /usr/local/trn/lib/organization
+- title: /usr/users/mat/reus/.organization
+- title: Univ. of Wis,Madison., NEEP Department
+- title: Haverford College
+- title: School of Engineering and applied science; S.M.U.; Dallas, Tx
+- title: Computer Science Department, University of New Mexico
+- title: Cursor Software Limited, London, England
+- title: IBM Advanced Workstation Systems Division
+- title: Yale AI Mobile Robotics Project
+- title: University of Kalmar
+- title: City University of New York/ University Computer Center
+- title: Computer Science Department, Colorado State University
+- title: MCSNet Subscriber, Chicago, IL
+- title: Live & Direct from Downtown Petah Tikva ISRAEL
+- title: NEC America, Inc Irving TX
+- title: The National Capital Freenet, Ottawa
+- title: U of Wisconsin Madison - Computer Sciences
+- title: zuma
+- title: Mitsubishi Semiconductor America, Inc., Durham, N.C.
+- title: Aston University
+- title: Red Wolfe @ The Wolves Den
+- title: Crimea River Corporation
+- title: BBN, Cambridge MA
+- title: ICBR
+- title: CSE Department, UC San Diego
+- title: UBC Electrical Engineering - Radio Lab
+- title: Dept. of Mathematics
+- title: Project GLUE, University of Maryland, College Park, MD
+- title: U S WEST, MRG
+- title: TheePlace
+- title: CSNMIT/Brussels Free University VUB
+- title: Tudor Investment Corporation, CT
+- title: Vroom Socko International Fear Club
+- title: Alabama Cooperative Extension Service, Auburn University
+- title: Digital Equipment Corp. - Telstar
+- title: BASIS Int'l, Albuquerque NM USA
+- title: Bell-Northern Research, Richardson, Tx.
+- title: Adobe Systems Inc., Mountain View, California, USA
+- title: Aging Boomers, Inc.
+- title: Unisys, Applied Technology, Malvern, PA
+- title: Advanced Decision Systems, Mtn. View, CA (415) 960-7300
+- title: Applied Mathematics, U.W.O
+- title: nrao
+- title: chaotic
+- title: Mcgill University, Montreal, Canada
+- title: Towfiq System
+- title: Department of Computer Science, University of Manchester
+- title: Bull World Wide Information Systems, Inc.
+- title: Motorola Inc.
+- title: GM NAO R&D Center
+- title: Ctr for Advanced Rsrch in Oppressive Binarisms
+- title: SunSoft South
+- title: CSIRO Division of Information Technology
+- title: AG Communication Systems, Phoenix, Arizona

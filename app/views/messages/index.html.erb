@@ -1,0 +1,67 @@
+<div class="block">
+  <div class="secondary-navigation">
+    <ul class="wat-cf">
+      <li class="first active"><%= link_to "#{t("web-app-theme.list", :default => "List")}", messages_path  %></li>
+      <li><%= link_to "#{t("web-app-theme.new", :default => "New")}", new_message_path %></li>
+    </ul>
+  </div>
+  <div class="content">
+    <h2 class="title"><%= t("web-app-theme.all", :default => "All")  %> Messages</h2>
+    <%= form_tag messages_path, :method => :get do %>
+    <%= text_field_tag :q, params[:q] %>
+    <%= submit_tag "Search" %>
+    <% end %>
+    <div class="inner">
+      <table class="table">
+      <% unless !@messages%>
+        <tr>
+          <th class="first">ID</th>
+                    <th>
+            <%= t("activerecord.attributes.message.body", :default => t("activerecord.labels.body", :default => "Body")) %>
+          </th>
+                    <th>
+                    Category
+                    </th>
+                    <th>
+                    Assigned category
+                    </th>
+
+        </tr>
+        <% @messages.each do |message| -%>
+        <tr class="<%= cycle("odd", "even") %>">
+          <td>
+            <%= message.id %>
+          </td>
+           <td>
+            <%= link_to message.body[0..150], message_path(message) %>
+          </td>
+
+          </td>
+          <td>
+          <%= message.category.title %>
+          </td>
+          <td>
+          <%= message.assigned_category.downcase %>
+          </td>
+
+            <%#= link_to "#{t("web-app-theme.show", :default => "Show")}", message_path(message) %>
+            <%#= link_to "#{t("web-app-theme.edit", :default => "Edit")}", edit_message_path(message) %>
+            <%#= link_to "#{t("web-app-theme.delete", :default => "Delete")}", message_path(message), :method => :delete, :confirm => "#{t("web-app-theme.confirm", :default => "Are you sure?")}" %>
+
+        </tr>
+        <% end -%>
+      </table>
+      <div class="actions-bar wat-cf">
+        <div class="actions">
+        </div>
+
+        <%= will_paginate @messages  %>
+
+      </div>
+    </div>
+    <% end %>
+  </div>
+</div>
+
+<% content_for :sidebar, render(:partial => 'sidebar') -%>
+

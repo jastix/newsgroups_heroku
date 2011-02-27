@@ -1,0 +1,17 @@
+<div class="block notice">
+  <h3>Statistics</h3>
+  <div class="content">
+    <p>Number of properly classified messages: <%= @cl_result %></p>
+    <p>Number of messages: <%= @total_messages %></p>
+    <% if @total_hits %>
+    <p>Documents found: <%= @total_hits %>
+    <% end %>
+  </div>
+</div>
+<div class="block">
+  <h3>Info</h3>
+  <ul class="navigation">
+    <li><a href="http://www.tue.nl">TU/e</a></li>
+  </ul>
+</div>
+
