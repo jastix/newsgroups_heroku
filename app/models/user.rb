@@ -10,8 +10,8 @@ class User < ActiveRecord::Base
 
   has_many :messages
   accepts_nested_attributes_for :messages, :reject_if => :all_blank
-  #serialize :classifier, Classifier::Bayes
-  after_create :initialize_classifier#, :training
+  serialize :classifier, Classifier::Bayes
+  after_create :initialize_classifier, :training
   before_update :remove_stemmer
 
   def training
