@@ -11,6 +11,8 @@ gem 'web-app-theme'
 gem 'yaml_db'
 
 gem 'sunspot_rails', '~>1.2rc4'
+
+gem 'thinkingtank'
 #gem 'irbtools'
 # Use unicorn as the web server
 # gem 'unicorn'

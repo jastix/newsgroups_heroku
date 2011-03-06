@@ -5,4 +5,5 @@ tmp/**/*
 solr/data
 config/database.yml
 db/db/*
+config/indextank.yml
 

@@ -3,8 +3,9 @@ class Subject < ActiveRecord::Base
   attr_accessible :title
 
 
-  searchable do
-    text :title
-  end
+define_index do
+  indexes title
+end
+
 end
 

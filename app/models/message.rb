@@ -22,29 +22,9 @@ class Message < ActiveRecord::Base
   end
 
 
-  searchable do
-    text :body do |mes|
-      mes.body + mes.address.from + mes.subject.title + mes.address.organization.title
-    end
-=begin
-    text :address do |mes|
-      mes.address.from
-    end
-    text :subject do |mes|
-      mes.subject.title
-    end
-    text :organization do |mes|
-      mes.address.organization.title
-=end
 
 
 
-=begin
-    string :messages do
-      self.body + address.from +  subject.title +  address.organization.title
-=end
-
-  end
 
 end
 
