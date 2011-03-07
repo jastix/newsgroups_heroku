@@ -25,6 +25,7 @@ class Message < ActiveRecord::Base
     text :body do |mes|
       mes.body + mes.address.from + mes.subject.title + mes.address.organization.title
     end
+  end
 
 
 
