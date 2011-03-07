@@ -8,7 +8,7 @@ class MessagesController < ApplicationController
       Message.all.paginate(:per_page => 30, :page => params[:page])
   else
    poisk = Message.search(:include => [:address, :category, :subject]) do |s|
-      s.keywords params[:q], :highlight => [:title, :body], :merge_continuous_fragments => true, :phrase_fields => {:title => 3.0, :from => 1.5}
+      s.keywords params[:q], :highlight => true, :merge_continuous_fragments => true, :phrase_fields => {:title => 3.0, :from => 1.5}
     end
     poisk.results
     end
