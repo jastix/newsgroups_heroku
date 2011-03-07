@@ -2,11 +2,12 @@ class MessagesController < ApplicationController
   # GET /messages
   # GET /messages.xml
   #before_filter :authenticate_user!
+
   def index
     @messages = if params[:q].blank?
       Message.all.paginate(:per_page => 30, :page => params[:page])
   else
-   poisk = Message.search(:include => [:address, :category, :subject]) do |s|
+   poisk = Message.search(:include => [:address, :category, :subject, :address => :organization])do |s|
       s.keywords params[:q], :highlight => true, :merge_continuous_fragments => true, :phrase_fields => {:title => 2.0, :from => 1.5}
     end
     poisk.results

@@ -4,15 +4,16 @@ gem 'rails', '3.0.3'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-gem 'mysql2'
+#gem 'mysql2'
+gem 'mysql'
 #gem 'pg'
 gem "will_paginate"
 gem 'web-app-theme'
 gem 'yaml_db'
 
-gem 'sunspot_rails', '~>1.2rc4'
+gem 'sunspot_rails', '~>1.2.1'
 
-gem 'thinkingtank'
+#gem 'thinkingtank'
 #gem 'irbtools'
 # Use unicorn as the web server
 # gem 'unicorn'
