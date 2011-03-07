@@ -22,7 +22,7 @@ class Message < ActiveRecord::Base
   end
 
     searchable do
-    text :body do |mes|
+    text :body, :stored => true do |mes|
       mes.body + mes.address.from + mes.subject.title + mes.address.organization.title
     end
   end
