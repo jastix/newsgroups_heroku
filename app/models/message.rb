@@ -21,6 +21,10 @@ class Message < ActiveRecord::Base
     end
   end
 
+    searchable do
+    text :body do |mes|
+      mes.body + mes.address.from + mes.subject.title + mes.address.organization.title
+    end
 
 
 
