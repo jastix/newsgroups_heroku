@@ -25,6 +25,9 @@ class Message < ActiveRecord::Base
     text :body, :stored => true do |mes|
       mes.body + mes.address.from + mes.subject.title + mes.address.organization.title
     end
+    text :title, :stored => true do |t|
+      mes.subject.title + ' ' + mes.address.organization.title
+    end
   end
 
 
