@@ -3,9 +3,7 @@ class Subject < ActiveRecord::Base
   attr_accessible :title
 
 
-define_index do
-  indexes title
-end
+
 
 end
 
